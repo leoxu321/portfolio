@@ -1,0 +1,81 @@
+<!doctype html>
+<title>Sign In</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<style>
+body{
+    display: grid;
+    grid-template-areas:
+    "top"
+    "space"
+    "login "
+    "nav";
+    grid-template-rows:8% 9% 70% 8%;
+    grid-template-columns:1fr;
+    grid-gap: 1%;
+    height: 100vh;
+    margin: 0;
+}
+top, login, nav{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#topBox{
+  grid-area:top;
+}
+#spaceBox{
+  grid-area:space;
+}
+#logBox{
+
+  grid-area:login;
+}
+#navBox{
+  grid-area: nav;
+}
+p { border-bottom: 2px solid white;}
+</style>
+<body style="background-color:black;">
+    <top id="topBox">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </top>
+
+    <space id="spaceBox">
+    </space>
+
+    <login id="logBox">
+    <p>
+      <h2>LogIn</h2>
+      <div class="box">
+          <div class="container-username">
+            <h2 style = "font-family: Verdana; font-size: 20px;">Username</h2>
+            <input type="username" id="username" placeholder="username">
+            </div>
+          <div class="container-password">
+            <h2 style = "font-family: Verdana; font-size: 20px;">Password</h2>
+            <input type="password" id="password" placeholder="Password">
+              </div>
+          </div>
+          <br>
+          <button type="button" style="font-family: Verdana; font-size: 20px;" onclick= "login(); href='FirstWebpage.html'">Sign In</button>
+          <br>
+          <p id="notif">
+          </p>
+          <br>
+          Don't have an account? Sign up here!
+          <br>
+          <br>
+          <button type="button" style="font-family: Verdana; font-size: 20px;" onclick="location.href='Signup.html'">Make Account</button>
+    </p>
+  </login>
+    <login id="navBox">
+      <br>
+      <br>
+
+        <a style ="text-align:center; color:white;" href="/FirstWebpage.html" > Main Page |</a>
+        <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films |</a>
+        <a style ="text-align:center; color:white;" href="/SearchUsers.html"> Search Users</a>
+
+    </navbox>
+</body>
+<script>
+</script>

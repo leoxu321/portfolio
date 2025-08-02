@@ -1,0 +1,888 @@
+0.00 29.20 HOST: Two uninhabited Pacific Islands. More than 5,000 miles from the UK. One has been inhabited by 14 British men, while a separate island was home to 14 British women. They've been utterly alone, with only the clothes they stand up in and a handful of basic tools.
+29.20 64.80 HOST: Bitch, you big fella! Oh, snap it! Filming everything themselves. The women have made it off alive. Tonight it's the final instalment of the men's island. You lazy bunch of bone idle bastards! Survival will be harder than ever. They'll have to endure the height of the harsh tropical storm season. This island either wants to decompose you or eat you alive.
+64.80 73.20 HOST: It's a scorpion, guys! They'll have to find their own water and hunt for their own food.
+73.20 78.40 HOST: With the finishing line in sight, have these modern day men got what it takes to survive?
+78.40 96.88 SPEAKER_15  I'm going to go to hell for this. Come on, boys! SONG! HOYO!
+96.88 108.24 HOST: Five weeks ago, 14 British men were dropped on a remote Pacific island. I'm glad you hit me. I couldn't have gone much forever. They've had some success with their fishing nets.
+108.24 132.44 HOST: But not enough to stop their physical decline. We've been here over a month now. We are starting to starve. Be careful! Taking huge risks in the pursuit of food. Holy shit! He's severed one of his tendons. The group suffered their biggest loss. He needs to be evacuated.
+132.52 138.52 HOST: His 36-year-old Will was forced to leave the island. I feel devastated these times. Of
+138.52 143.16 VIC: all the people he wanted to finish with, he was up there, wasn't he? We were supposed
+143.16 150.16 PHIL: to be as strong as the team and now the island's thwarted that. Hate this place. Hate it.
+
+
+
+163.44 172.44 ROSS:  We're in again. No respite for us, man. Isn't that thunder? We're against Carud again.
+177.44 195.44 CHARLIE: Fairweather islanders! What's going on here? 
+FARMAR: Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, I've got a flippings as a scorpion. 
+VIC: Shit! Don't move, don't move, don't move. 
+FARMA: I do not want to get stung. 
+VIC: God, you don't. 
+FARMAR: Please be quick about it. Don't cut it off. Don't throw it off on your spot. Just take it off. Take it off.
+195.44 208.44 VIC: Take it off. Give it a shot. Yeah. 
+VIC: Ain't that the thing with this island? One minute it's all calm and then boom, there's a scorpion on my leg. 
+FARMAR: I'll eat him. Horrible little thing.
+208.44 215.44 VIC: Take him. Yeah, yeah, yeah. Take him down. Well done, big fella. 
+
+NOTE: GROUP HELPS FARMAR SCORPION OFF HIM(FARMAR -> GROUP +1)
+
+215.44 226.44 HOST: The men have been living on the island for an unprecedented 36 days and are now entering uncharted territory. And that's why this time only the mentally strong are going to make it to the end.
+231.44 253.44 HOST: Living for five weeks on an extreme low calorie diet consisting mainly of fish, limpets and coconuts, the men have been getting weaker by the day. 
+PIERS: Pounds just keep dropping off
+HOST:, so then. To make sure their physical decline doesn't become life threatening, Dr. Piers has been monitoring their weight using scales from his medical kit. 
+
+253.44 261.44 BARNEY: Come on, you little shriek of piss. That puts me just under 10 stone. 
+DAN: My bollocks wear more than that. Jesus.
+264.44 278.44 ROSS: 28 inch waist. 28 inch waist. 
+VIC: Jesus Christ. 
+DAN: You can just buy boys clothes when you get home now. Save an absolute packet. Baby gap, mate. Here you go, baby gap. 
+
+278.44 284.44 HOST: Since arriving on the island, the men have shed nearly 30 stone between them. 
+
+284.44 288.44 CHARLIE: The weight loss is always going to be dramatic, but I was not expecting it to be as severe as it was.
+
+291.44 298.44 PIERS: And maybe, just maybe, the storm has been kind and dropped us a fresh coconut. 
+
+298.44 310.44 HOST: Determined to halt the decline, the men redouble their efforts to find food. 
+
+CHARLIE: We're going to go and check the shit out of these nets.
+FARMAR: Good luck, fellas. 
+PIERS: Oh, my legs are not working today.
+310.44 323.44 CHARLIE: I had that yesterday. 
+CHARLIE: Just, have you worn your boots recently? 
+PIERS: No. 
+CHARLIE:God, dude, do not try putting them on. I'll tell you that. It's been waiting the last time, isn't it?
+
+324.44 334.44 HOST: The fishing nets have been a lifeline for the men, but as they get weaker, taking the raft out to check them has become an increasingly difficult task. Come on now, let's have just one or two.
+
+334.44 345.44 PIERS: Oh, bollocks. Little snag. 
+CHARLIE: Oh, this is getting annoying now. 
+
+345.44 351.44 HOST: Today, there isn't a single fish to reward Charlie and Piers for their efforts. You all right? I
+
+351.44 362.44 PIERS: think it's dangerous now, actually, living in those nets, in all honesty. All of us are just skin and bone, and it's not really safe anymore.
+
+369.44 375.44 DAN:  We've eaten almost every single coconut on this whole island. All the ones left are pretty rotten.
+375.44 383.44 SAM: This was the last little stash I knew about. It depleted a lot of the limpet stores already, really. 
+
+383.44 390.44 HOST: Even the men's once reliable food sources appear to be running
+390.44 396.44 :HOST: dry.
+396.44 417.44 VIC: We have truly decimated the fish within three metres of the boundary of this island, and we're going to have to go back and get the rest of the fish. 
+
+SAM: 24 hours ago, we were conquering this island. Nets were full of fish. 24 hours later, we're in tatters.
+417.44 442.44 SAM: This could go from about to worse, very easily. 
+
+HOST: It's the first time in the world of being caught in the wild, being tired, being bitten to death, being hungry. You just have those moments. One of the key lessons I've learned is that the pain, the discomfort, it never lasts forever. Keep your eyes on the light.
+
+445.44 450.44 FARMAR: Can I just show you something? There's something here that you might want to see. 
+DAN : IS IT WORTH IT IS IT EDIBLE?
+450.44 453.44 FARMAR: It's good. 
+PIERS: I'm taking my knife, just in case.
+453.44 454.44 PIERS: It's bad girls, isn't it?
+454.44 456.44 FARMAR And it's a hope as well. Look at this.
+456.44 459.44 PHIL: Oh, yeah. Oh, baby turtle.
+459.44 462.44 FARMAR: It's alive, and it's making its way to the beach.
+462.44 465.44 FARMAR: And if there's one, there's probably a few more.
+465.44 466.44 FARMAR: Isn't that amazing?
+466.44 467.44 PIERS: That's incredible.
+467.44 468.44 PHIL: There's the others, look.
+468.44 470.44 SPEAKER_07  Oh, the other one. Oh, yeah.
+470.44 471.44 PHIL: Can you see the two of them?
+471.44 473.44 SPEAKER_07  Yeah. Oh.
+473.44 474.44 FARMAR: Gorgeous, isn't it?
+474.44 475.44 FARMAR: Privilege.
+475.44 477.44 FARMAR It's a real privilege, isn't it?
+
+477.44 481.44 FARMAR: I just noticed it. I was coming back, and then end of the beach.
+481.44 485.44 FARMAR: I just saw this thing wriggling in the sand, and I thought, what's that?
+485.44 487.44 FARMAR: And just to see that, it's absolutely amazing.
+
+491.44 493.44 VIC:  This is such a fight, guys.
+493.44 495.44 VIC:  You can sort of see them toasting in the sun, can't you?
+495.44 497.44 VIC:  Yeah.
+497.44 499.44 KYLE: It's the life and death of these guys, you know what I mean?
+499.44 506.44 KYLE: It's like each one of us, you know, whether it's here on this island or in life, we're sort of fighting our own personal battles.
+507.44 508.44 KYLE: Should we help him?
+511.44 512.44 KYLE: All right.
+512.44 514.44 KYLE: Go.
+514.44 516.44 KYLE: Help him a lot.
+516.44 517.44 KYLE: Come on, chap.
+517.44 519.44 KYLE: Yep.
+520.44 530.44 ROSS: And maybe I'm doing a completely wrong thing, and shoot me down, but if there's a chance of this little dude living rather than dying, I want him to live.
+530.44 532.44 ROSS Go on, now, fella.
+532.44 534.44 ROSS: Take to the water.
+534.44 537.44 ROSS: God, that was one of the most incredible things
+537.44 540.44 ROSS: I have ever seen. Really touching.
+540.44 542.44 ROSS: Those guys have just been born, has been hatched.
+542.44 544.44 ROSS: All they're thinking about is just surviving.
+544.44 548.44 ROSS: Getting to that water, it just puts everything into perspective.
+548.44 550.44 ROSS: Such a beautiful sight.
+
+556.44 557.44 KYLE: You okay?
+558.44 560.44 VIC: Yeah, yeah, tired, that's all.
+560.44 561.44 HOST:  Late afternoon.
+561.44 563.44 VIC: Ah!
+
+565.44 575.44 HOST: The turtles have been a welcome distraction, but after more than five weeks on a starvation diet and no sign of their next meal, the men are in bad shape.
+
+576.44 577.44 ROSS: God.
+577.44 579.44 CHARLIE: Tired.
+580.44 581.44 CHARLIE: Just tired.
+581.44 585.44 CHARLIE: They've usually got lots of energy, and I like being enthusiastic about things.
+585.44 587.44 CHARLIE: I like doing things.
+588.44 590.44 CHARLIE: But I've been so tired.
+
+590.44 597.44 KYLE: I'm sort of starving and wasting away, and I know my body is just like, you need fuel, but there's no escaping it.
+597.44 601.44 KYLE: You're so aware that you're going downhill fast.
+
+607.44 608.44 KYLE: You all right?
+608.44 610.44 ROSS: No, he's gone, I think.
+611.44 613.44 KYLE: They're all fucking dying.
+614.44 618.44 HOST: On the beach, some of the baby turtles are also on their last legs.
+619.44 622.44 SAM:  They're just frying up some hot little bodies.
+623.44 625.44 SAM:  I wish they'd woken up at night.
+626.44 632.44 SAM::  It breaks my heart, but either we leave these little guys to rot or for the birds to pick at them or we eat them.
+632.44 638.44 SAM:  And this, by any definition, is a moral dilemma.
+639.44 641.44 CHARLIE: Are we definitely boiling these little buggers up, are we?
+641.44 642.44 CHARLIE: What do you think?
+642.44 643.44 DAN: I'm not eating it.
+643.44 644.44 SAM: No?
+644.44 645.44 DAN: I think it's disgusting.
+645.44 647.44 DAN: I think you're all inhumane if you eat them first.
+648.44 660.44 CHARLIE: The turtle who died on the beach, there's rumours of that going in a broth, and you'd say for ethical reasons or whatever, there's no way I'm drinking any of that at all.
+
+NOTE: GROUP BESIDES DAN AND CHARLIE DECIDES TO EAT THE DEAD TURTLES
+
+664.44 665.44 SAM: I'm going to go to hell for this.
+665.44 669.44 HOST: Despite strong feelings in the group, Sam makes a decision.
+669.44 670.44 SAM: Eat, not eat.
+670.44 672.44 SAM: I think we should eat them.
+
+674.44 676.44 SAM:  I think these guys are done.
+676.44 678.44 VIC:  What, they're right? Oh.
+678.44 679.44 VIC: Well, go on.
+679.44 680.44 SAM: It's got a hard-boiled egg.
+681.44 683.44 VIC: Hey, it's right there beautiful, aren't they?
+683.44 684.44 VIC: Oh, that's wrong.
+685.44 686.44 VIC: That is so wrong.
+
+689.44 691.44 VIC: I've eaten some fucked-up shit in my time.
+691.44 692.44 VIC:  This takes a cake.
+693.44 695.44 SAM:  Salute, my little turdly friends.
+695.44 696.44 VIC:  Why don't I?
+696.44 697.44 VIC:  That's shell and all.
+697.44 698.44 SAM:  Yep, every bit.
+698.44 699.44 SAM:  Every bit. Rafael.
+702.44 703.44 SAM:  Michelangelo.
+704.44 705.44 SAM:  Is anyone else claiming these turtles?
+705.44 707.44 VIC:  Go on, then. Go on, take me straight.
+707.44 708.44 BARNEY: I'll have two.
+709.44 711.44 BARNEY: Oh, my God, they're good.
+711.44 713.44 PIERS: They're absolutely stunning.
+713.44 715.44 ROSS: Are you eating them or not eating them?
+715.44 716.44 DAN: I am not eating them, mate.
+716.44 717.44 SPEAKER_08  All right, OK.
+717.44 724.44 SAM: Weird how you can feel nothing for a snake or an iguana, and baby turtle has died anyway.
+724.44 725.44 SAM: It's weird.
+725.44 726.44 SAM: It's difficult to eat.
+727.44 728.44 SAM: God, I've got them going.
+728.44 730.44 PIERS: It is quite delicious.
+730.44 734.44 CHARLIE:: I'm sure it is, but a bizarre principle that I'm sticking to now.
+
+734.44 741.44 HOST: With only half the group able to bring themselves to eat the baby turtles, they bring little relief to the malnourished men.
+
+741.44 744.44 FARMAR It's becoming an experiment in starvation.
+745.44 748.44 FARMAR: It's really tough to keep going when you're so hungry, and the future is looking pretty bleak when it comes to food.
+
+749.44 757.44 HOST: The men have now been living alone on the island for more than five weeks.
+
+759.44 760.44 HOST: It doesn't smell too good.
+762.44 763.44 SPEAKER_15  Ah!
+764.44 765.44 SPEAKER_15  Fuck!
+
+766.44 770.44 HOST: Since the demise of their fishing nets, the food situation has become critical.
+
+771.44 774.44 PIERS: Resources on our back doorstep have run out.
+
+774.44 779.44 HOST: A handful of dead baby turtles provided a temporary reprieve for some of the men.
+
+780.44 781.44 None  Whoa!
+782.44 784.44 HOST: But today they're back to nothing.
+
+785.44 794.44 FARMAR: About a week ago, we saw pig trotter marks, and we're keen to lay some pig traps, and hopefully we'll have to bring back the bacon.
+
+796.44 803.44 HOST: When you're deprived of food, it literally becomes all consumers, all you think about, it's all that motivates and drives you
+803.44 805.44 HOST: I need something.
+805.44 816.44 HOST: The hard though it is when they're running on empty, the men can't afford to neglect the other survival essentials that have worked so hard to maintain over five weeks, especially team spirit.
+
+823.44 824.44 None  Well done, chefs.
+824.44 827.44 PIERS: Well, that chap's is delicious.
+827.44 829.44 VIC: Is that the obligatory pubich air?
+
+830.44 838.44 HOST: After an unsuccessful morning, the only meal the hunting party have been able to muster is limpet broth, which is quickly devoured by the men.
+
+842.44 844.44 PHIL: What are you eating?
+850.44 851.44 PHIL: What have I missed?
+851.44 856.44 HOST: The group's oldest member, Phil, has arrived back in camp later than the others.
+
+857.44 862.44 BARNEY: We all served up the food and completely forgot about Phil.
+863.44 865.44 SPEAKER_00  What did you tell me?
+865.44 867.44 BARNEY: Is there any Broadway?
+867.44 868.44 BARNEY: There'd be a...
+868.44 872.44 BARNEY: What I'm going to do is I'm just going to hide behind my t-shirt
+872.44 875.44 BARNEY in the hope that he doesnt see me
+
+882.44 889.44 HOST: it's the first time since the men arrived on the island
+ that they have forgotten to feed one of their own. 
+
+NOTE: GROUP FORGETS TO GIVE PHIL FOOD (PHIL -> GROUP -1)
+PHIL: Everyone looked after themselves and forgot me
+889.44 891.44 BARNEY: Oh, my God, I'm so sorry.
+891.44 892.44 PHIL: That's OK.
+892.44 894.44 PHIL: It just means that you all owe me.
+894.44 895.44 PHIL: That's all.
+
+900.44 910.44 DAN: So we weren't acting like this four weeks into the experiment, but now we are coming up to five and a half weeks, and a lot of people are starting to fray around the edges.
+910.44 914.44 DAN: Some of them are fraying, some of them are coming away at the seams.
+
+914.44 916.44 SPEAKER_08  Cheers, man.
+916.44 918.44 FARMAR: What's he doing now
+918.44 920.44 PIERS: I don't know.
+920.44 922.44 SPEAKER_08  I just want you to know...
+922.44 924.44 PIERS: I don't know.
+924.44 926.44 FARMAR Have you completely lost it?
+926.44 928.44 ROSS: I don't know. Have you believed so?
+928.44 930.44 PHIL: People eating, I missed food
+
+937.44 940.44 SAM:  OK, finally, let's get the fuck out of here.
+940.44 941.44 KYLE:  That's it.
+942.44 944.44 SAM:  We'll see you later on, mate.
+
+945.44 953.44 HOST: Desperate for a decent meal and having exhausted the resources close to camp, Sam Brown and Kyle head off to look further afield.
+
+953.44 955.44 SAM: Now we can go get some coconuts.
+955.44 956.44 SAM: Fingers crossed.
+
+956.44 965.44 HOST: For the first time, they're heading to the unexplored south side of the island, an arduous five-kilometre round trip across unforgiving terrain.
+969.44 974.44 HOST: Having set off at 4pm, they have just two hours to make it there and back before nightfall.
+
+977.44 980.44 SAM: We might have left this slightly late.
+
+NOTE: ROSS IS ANGRY THAT FARMAR, BARNEY, PHIL ARE ARGUING TOO MUCH
+
+982.44 984.44 FARMAR Guys, IGUANA here.
+984.44 985.44 ROSS: Where is it?
+985.44 991.44 HOST: In the remaining hours of daylight, the other men are doing their best to find a meal closer to home.
+991.44 992.44 ROSS:  Where is it?
+992.44 994.44 FARMAR:  It's in the fucking tree here.
+994.44 995.44 FARMAR: I'm pointing to it.
+995.44 996.44 ROSS: It's in the fucking forest.
+996.44 997.44 ROSS:  It's 12 o'clock, 11 o'clock.
+997.44 998.44 ROSS:   Where are you standing?
+
+998.44 999.44 ROSS: Wow.
+1000.44 1002.44 ROSS: Fractures occurring in the group.
+1002.44 1004.44 ROSS: We are argument spickering.
+1004.44 1007.44 ROSS:  And that's got to be down to the hunger and the tiredness.
+
+1007.44 1009.44 ROSS:  We haven't got a fucking clue who it is.
+1009.44 1011.44 FARMAR I mean, can everyone see me?
+1011.44 1013.44 FARMAR If you can see me, I'm pointing at it.
+1013.44 1014.44 ROSS:  Where is it?
+1014.44 1015.44 FARMAR What, are you bonny, bonny, bonny?
+1015.44 1016.44 SPEAKER_07  It's not that way.
+1016.44 1018.44 FAMMAR Yeah, no, he's bonny, bonny.
+1018.44 1019.44 FARMAR  Back.
+1019.44 1020.44 ROSS:  bollocks.
+
+NOTE: SAM IS BEING KIND TO KYLE
+
+1025.44 1027.44 SAM: So are you struggling a bit today?
+1027.44 1029.44 KYLE: Yeah, today's been tough day, actually.
+
+1030.44 1035.44 HOST: Sam and Kyle have now been trekking through dense jungle for more than an hour.
+1035.44 1041.44 HOST: In an attempt to find out if the island's south coast has any untapped sources of food.
+
+1041.44 1042.44 SAM: Slipping is buggery here, Kyle.
+1042.44 1043.44 SAM: Just be careful.
+1043.44 1044.44 KYLE:  Cheers, mate.
+1044.44 1046.44 SAM:  This is going to be a fucking nightmare on the way back.
+1050.44 1052.44 KYLE:  See if If there a beach
+1052.44 1054.44 SAM:  Mate, be careful, be careful, be careful.
+1054.44 1055.44 SAM:  Be careful.
+1058.44 1059.44 KYLE:  Shit.
+1062.44 1064.44 SAM:  This is a no-go.
+1064.44 1068.44 SAM:  We were hoping to find a nice sandy beach and a coconut tree.
+1070.44 1074.44 SAM:  Instead, we'll find this.
+1077.44 1079.44 SAM:  Fucking lethal.
+1080.44 1083.44 SAM:  One slip up here and we'll die.
+.
+1091.44 1098.44 HOST: On the other side of the island, Farmer Charlie is the first to return to camp after a fruitless day's hunting.
+
+NOTE: CHARLIE AND DAN ANGRY AT GROUP FOR LEAVING THE CAMP WITH BARELY AN EMBER OF FIRE AND NO WATER 
+
+1098.44 1100.44 CHARLIE: Oh, fucking hell.
+1102.44 1109.44 CHARLIE: I've come back to find the fire, down to about one square inch of embers after a month of constant burn.
+1109.44 1112.44 CHARLIE: We're getting a bit complacent now.
+1112.44 1114.44 ?: How much water's left?
+1117.44 1118.44 DAN: Oh, no.
+
+1121.44 1128.44 DAN: You can see the standards of their camp are going lower and lower and lower, because people are just starting not to get a shit anymore.
+
+1129.44 1132.44 CHARLIE: Kept this fire going for a month now.
+1132.44 1134.44 CHARLIE: There was no smoke coming out of that whatsoever.
+1134.44 1137.44 CHARLIE: There was an ember about an inch square.
+1137.44 1140.44 CHARLIE: But it was either, yeah, Barney, Phil, Ross...
+1140.44 1143.44 BARNEY: That's not pointing, it's just not helpful.
+1143.44 1145.44 CHARLIE: Just saying, it was either.
+1145.44 1148.44 CHARLIE: One of you five. It cannot happen again.
+
+1150.44 1159.44 HOST: Most of the group have now been back at camp for the past hour, but Sam and Kyle have yet to return from their expedition to the south of the island.
+
+NOTE: ROSS AND BARNEY ARE WORRIED ABOUT SAM AND KYLE NOT GETTING BACK TO CAMP
+
+1159.44 1161.44 SPEAKER_02  Are we worried about them, lads?
+1161.44 1163.44 ROSS: There's no pitch black.
+1163.44 1164.44 VIC: Shit, it is, isn't it? Yeah.
+1164.44 1166.44 ROSS: It's not their deal time to be out foraging.
+1166.44 1169.44 ROSS: Why worry is when you're in the middle of the jungle, in the dark... Yeah.
+1169.44 1170.44 PIERS: No navigation.
+1170.44 1174.44 PIERS You've got a high tide as well, so you can't even get round.
+
+1174.44 1180.44 HOST: This is the first time any of the men have failed to get back to camp before dark.
+1183.44 1190.44 HOST: With the weather worsening and concerns growing over Sam and Kyle's safety, the men muster a search party.
+
+NOTE: GROUP DECIDES TO GO OUT TO FIND SAM AND KYLE
+
+1190.44 1192.44 HOST: Let's go, let's try and find them.
+1193.44 1197.44 SPEAKER_08  That's it. Fucking should be going out at four o'clock.
+1197.44 1202.44 ROSS: Yeah, they're certainly not equipped for a night out in the fucking jungle on their own.
+1202.44 1205.44 ROSS: You've got a very steep drop down here.
+1206.44 1208.44 BARNEY: Sam!
+1209.44 1211.44 BARNEY: Kyle!
+1213.44 1215.44 BARNEY: Sam!
+1216.44 1218.44 BARNEY” Kyle!
+
+1220.44 1222.44 SAM:  It's not looking good, man.
+1222.44 1224.44 KYLE::  They would not find us here.
+1224.44 1226.44 KYLE:  Not a chance.
+1226.44 1232.44 SAM: This is Kyle and Sam in the dark, trying to trek back towards our camp.
+1232.44 1234.44 SAM:  We'll see how far we get.
+1235.44 1238.44 KYLE: With no sun in the sky, it's hard to get your bearings.
+1239.44 1241.44 SAM:  Really, really unforgiving terrain.
+1243.44 1245.44 SAM:  Charlie!
+1245.44 1247.44 SAM: Charlie!
+1249.44 1251.44 SAM: Farmar!
+1252.44 1254.44 KYLE: Try the bird.
+1255.44 1256.44 KYLE:  Oh, fuck.
+1256.44 1258.44 KYLE:  This is fucking stupid.
+1258.44 1260.44 KYLE: It feels tormented out here.
+
+1266.44 1268.44 VIC: Come on, boys!
+1272.44 1276.44 BARNEY: Sam! Kyle!
+
+1278.44 1284.44 HOST: Having searched for an hour with no sign of the missing pair, the group reluctantly head back to camp.
+
+NOTE: VIC AND PHIL TALK ABOUT AND AGREE ABOUT BEING WORRIED ABOUT SAM AND KYLE
+
+1285.44 1290.44 VIC: Truth's known, you want to get them and give them a clip for being so stupid and putting us all through this.
+1290.44 1294.44 VIC: Because the only thing we are going to be thinking now, all night...
+1294.44 1295.44 PHIL: I know, it's how they're safe.
+1295.44 1297.44 VIC: How are they? I hope they're OK.
+1297.44 1300.44 PHIL: Familiarisation makes you think that we've got it licked.
+1300.44 1301.44 PHIL: Yeah. That's what we've done.
+1301.44 1303.44 VIC: We ain't got nothing licked, have we?
+1303.44 1307.44 VIC: No. Mother nature and this island invite you whenever she feels fit.
+1309.44 1311.44 VIC: Ah!
+
+1311.44 1313.44 SAM: Fuck! What rocks?
+1313.44 1315.44 KYLE: Fucking hell.
+
+1318.44 1325.44 HOST: Desperately trying to get back to camp, Sam and Kyle have hit the treacherous stretch of coast where Will had his accident.
+
+1325.44 1327.44 SAM: This is getting dangerous.
+1327.44 1330.44 HOST: One wrong move here could easily prove fatal.
+1330.44 1332.44 SAM: Not safe.
+1333.44 1336.44 SAM: Now this next bit,
+1336.44 1344.44 SAM:  you have to take it really, really slow because it's slippy as hell in the boulders and we've only got one head torch between us.
+1344.44 1347.44 SAM:  I am genuinely shedding myself now.
+1349.44 1351.44 KYLE Hello!
+
+NOTE: GROUP IS HAPPY THAT SAM AND KYLE ARE BACK AT CAMP
+
+1359.44 1362.44 PIERS: I genuinely don't think they know where they are.
+1364.44 1367.44 PHIL: It's a bit eerie actually sometimes.
+1367.44 1369.44 PHIL: Maybe I've seen one too many horror films.
+1369.44 1375.44 PHIL: I didn't think I was scared of the dark, but out here you have to sort of steel yourself that you're not scared of the dark.
+1377.44 1379.44 SAME:  Hello!
+1379.44 1380.44 PHIL: I see a light.
+1380.44 1381.44 SAM: Boys!
+1381.44 1382.44 SPEAKER_12  Hello!
+1389.44 1390.44 ALL: Sam! Good to see you, man.
+1390.44 1393.44 ALL: We are so pleased that you're back.
+1393.44 1397.44 SAM:  I don't think I've ever been so massively relieved in my whole life.
+1398.44 1401.44 VIC: Well done, boys. Glad to have you all.
+1401.44 1402.44 VIC: Well done, boys.
+1402.44 1403.44 BARNEY: Well done, boys.
+1403.44 1404.44 VIC: Well done.
+1404.44 1406.44 ROSS: The two protocol sons returned.
+1406.44 1409.44 ROSS: Thank God they're back home safe and sound.
+1409.44 1412.44 SAM:  The other side of the island is just horrible.
+1412.44 1413.44 SAM:  It's all shear cliff.
+1413.44 1415.44 SAM:  The waves hitting it like...
+1415.44 1418.44 SAM:  Listen, sorry to keep you guys up for so long.
+1418.44 1421.44 KYLE: You know it's not up anyone, but we got back.
+1421.44 1422.44 BARNEY: That's what counts.
+
+1422.44 1428.44 HOST: Well, the past few days have taken the whole group to lead to their limits, both physically and mentally.
+1428.44 1438.44 HOST: Not only have they forgotten to feed people and neglected the essential tasks of fire and water, but their recklessness brought the group close to losing two more men.
+1438.44 1446.44 HOST: If they don't start looking after each other, thinking smart, being resourceful and surviving, they haven't got a cats chance.
+
+NOTE: DAN AND VIC GIVES GROUP INSPIRATION TO DO EVERYTHING THEY WANTED TO DO ON THE ISLAND (GROUP -> DAN AND VIC +1)
+
+1446.44 1457.44 CHARLIE: The whole thing for me all comes down to us getting complacent about everything, thinking that we're now starting to own this island a little bit when really we have very little control.
+1457.44 1464.44 CHARLIE: That comes down to slipping off rocks, running out of wood, which we'll blatantly do tomorrow, whatever it may be.
+1464.44 1467.44 CHARLIE: Let's just get our drills a little bit back in order.
+1467.44 1469.44 VIC: Yeah, let's get back with basics.
+1469.44 1470.44 DAN: Morning calls and stuff like that.
+1470.44 1473.44 DAN: Let's get back into them, because we're all fucking shite at the minute.
+1473.44 1474.44 DAN: So let's get the basics right.
+1474.44 1477.44 VIC: Yeah, it would be vulgar to finish in such a weak way.
+1477.44 1482.44 VIC: We are here and we have grown so close together that we go for it.
+1482.44 1489.44 VIC: Doing the things we want to do that are exciting and fulfil all them things we've always wanted to do since being here.
+1489.44 1490.44 VIC: Let's go for it.
+1490.44 1492.44 DAN: Let's do this, Chaps, come on.
+1492.44 1494.44 SPEAKER_14  Whoo-yah!
+
+1494.44 1497.44 ROSS: I don't want to finish weak, I want to finish strong.
+1497.44 1502.44 ROSS: Catch some pigs, catch some animals, finish this adventure the way we want to.
+1502.44 1504.44 ROSS: I'm not going out like a wet fart.
+1504.44 1506.44 ROSS: I want to go out strong.
+
+1512.44 1519.44 BARNEY: Mum and Dad, there's so much I want to tell you. Because I just wanted to say, um...
+1521.44 1523.44 BARNEY:  ..being here...
+1527.44 1530.44 BARNEY:  ..has made me realise just how much I love you all.
+1530.44 1536.44  BARNEY: I don't want you to be worried about me in any sense.
+1536.44 1544.44  BARNEY:  And the reason I'm being kind of a little bit nearly tearful is because I just can't wait for that moment to see you all.
+1548.44 1550.44 BARNEY: But by having the time of my life, I really am.
+1554.44 1558.44 DAN: I hope, I hope, it's off to work, we go.
+1558.44 1561.44 DAN: Duh-duh-duh-duh-duh-duh-duh-duh-duh-duh-duh-duh-duh-duh-duh.
+
+NOTE: GROUP SINGING SNOW WHITE AND THE SEVEN DWARFS, DAN, ROSS, KYLE,CHARLIE 
+
+1562.44 1564.44 HOST: Early morning.
+1564.44 1571.44 HOST: After a difficult day yesterday, the men are determined to redouble their efforts and leave the island on a high.
+
+1571.44 1574.44 PHIL: I'm amazed what washes up on these damn beaches.
+
+1574.44 1577.44 FARMAR: A snake! So I get a machete.
+1577.44 1579.44 SPEAKER_07  Ooh. No, stop. Come on.
+1579.44 1583.44 FARMAR: It's so funny, on day one, we would be like, oh, shit, there's a snake.
+1583.44 1585.44 FARMAR: And now we're like, oh, it's just another snake.
+1585.44 1587.44 None  Roar!
+
+NOTE: ROSS THINKS THE GROUP HAS BECOME CLOSER
+
+1589.44 1594.44 ROSS: Today I really got a sense that our teamwork, our team ethic really came back.
+1596.44 1600.44 ROSS: It just seems to be a real pulling together today.
+
+INTERACTION ROSS AND BARNEY GO FISHING CATCH FISH TOGETHER
+
+1601.44 1602.44 ALL: Whoo!
+1602.44 1604.44 ROSS: Man, it got a whopper.
+1604.44 1606.44 BARNEY: We've got fish!
+1606.44 1608.44 SPEAKER_15  Holy shit!
+
+NOTE: CHARLIE, SAM, FARMAR, AND PIERS ARE GRATEFUL TO ROSS AND BARNEY FOR GETTING FISH. THEY SHARE FISH TOGETHER
+
+1610.44 1611.44 CHARLIE: Hello, hello, hello.
+1611.44 1612.44 PIERS:  Oh, what a nice...
+1612.44 1613.44 PIERS:  Ooh, that is it.
+1613.44 1615.44 CHARLIE: I think it's a beauty as well.
+1615.44 1619.44 FARMAR:  Never in my life have I made my own sashimi before.
+1619.44 1628.44 CHARLIE: I've gone from eating one fish maybe every six months to now having it raw on a beach, on a home-whittled table.
+1628.44 1629.44 CHARLIE: And loving it.
+1629.44 1630.44 CHARLIE: Dig in.
+1630.44 1631.44 PIERS:  To you, sir.
+1631.44 1633.44 FARMAR:  To many more days like this.
+1637.44 1638.44 PIERS: Oh.
+1639.44 1640.44 PIERS: Mm.
+1640.44 1643.44 PIERS: It's just so...
+1643.44 1645.44 CHARLIE: Circular than the justice does it.
+1645.44 1646.44 PIERS: Fresh.
+1647.44 1648.44 FARMAR To this.
+
+1649.44 1670.44 HOST: One of the things I want to say in this experiment is whether these guys can use all their collective resources and brains and muscles to not just survive, but to really thrive, to build community, to have fun, to work out efficient sources of finding food, to really start to thrive and separate us from the animals.
+
+1671.44 1677.44 CHARLIE: When Oinkie makes his way to my front door, I will consume the entire fucking animal.
+1678.44 1684.44 HOST: The men's renewed spirit has bought fresh optimism about the prospect of catching a meatier meal.
+1686.44 1687.44 DAN: Ah!
+1688.44 1689.44 DAN:  What have we got here?
+1691.44 1693.44 DAN: These look like little trot marks to me.
+1694.44 1695.44 CHARLIE: Oh, my fucking God.
+1695.44 1697.44 DAN: Well, that is exciting, isn't it?
+1697.44 1701.44 DAN: We're going in the bushes, so obviously it's a bit too hot for them and then going back in.
+1702.44 1704.44 CHARLIE: They're definite pig tracks.
+1704.44 1705.44 CHARLIE Please!
+1706.44 1708.44 CHARLIE: Oh, my God, bacon bodies.
+1708.44 1709.44 CHARLIE: Oh!
+
+1710.44 1714.44 CHARLIE: We were all fantasising the other day about what we're going to do to Oinkie.
+1714.44 1721.44 CHARLIE: Delusions of grandeur, of smoking him and putting him on a spit and having crackling and God knows all sorts.
+1721.44 1722.44 CHARLIE: What we'd give for that.
+
+1723.44 1725.44 VIC: Damn it, it's warm, Barney.
+1725.44 1727.44 BARNEY: It's getting hot, mate, isn't it? Yeah.
+1727.44 1733.44 HOST: Further down the beach, Vic, Barney and the two Sams are also on the hunt for a decent supper.
+
+NOTE: FARMAR FINDS PIG
+
+1735.44 1737.44 FARMAR: Shit the dog. Shit the dog.
+1737.44 1738.44 BARNEY: What?
+1738.44 1739.44 FARMAR: Look at that, look at that, there's something there.
+1739.44 1741.44 FARMAR: Stop, stop, stop, don't move, don't move.
+1741.44 1742.44 BARNEY: Where, where, where? 
+FARMAR: OK, stop.
+1742.44 1744.44 FARMAR:  There's a pig in there. Black pig. Black pig.
+1744.44 1746.44 VIC:  No way. 
+FARMAR: Don't move, don't move.
+1746.44 1748.44 FARMAR: Vic, Vic, Vic, don't move. Let's have a think about this.
+1748.44 1750.44 BARNEY: OK, and he was just having a little snooze in the shade.
+1750.44 1753.44 FARMAR: So we need to get behind him because that's the thing he's going to disperse right in there.
+1753.44 1754.44 VIC: I'll walk the sound. All right?
+1754.44 1756.44 BARNEY:: I'll go with you, then, yeah? Yeah. Don't worry.
+1756.44 1759.44 VIC:: We'll hold him down. If I'm eating pigs tonight, I'll fight the bastards.
+1760.44 1762.44 VIC: Just keep very calm.
+1762.44 1766.44 HOST: When cornered, pigs can be incredibly aggressive animals.
+1766.44 1768.44 SAM: This thing is going to run like stink.
+1770.44 1774.44 HOST: They've got razor-sharp tusks and a vicious bite.
+1781.44 1783.44 VIC: OK, well, I'm going to do it.
+1808.44 1810.44 VIC: Getting in!
+
+NOTE: VIC JUMPS THE PIG AND SAM KILLS THE PIG AND BARNEY JUMPS ON PIG AS WELL. ALL 3 HUG
+
+1811.44 1814.08 VIC Holy shit, boy! You saw me, boy!
+1814.12 1816.28 ALL: Whoo!
+1816.32 1817.64 ALL: Whoo!
+1817.68 1821.60 VIC: I thought he would have turned and bite me. I crapped myself.
+1821.64 1823.44 VIC: Yeah, he's gone.
+1823.48 1827.04 FARMAR: Gosh, that was so much quicker than I thought. That was just like...
+1827.08 1829.08 VIC: Listen, it's done.
+BARNEY: This is how we roll.
+1830.76 1832.88 BARNEY: I wasn't expecting you to stab him.
+1832.92 1834.84 SAM: I didn't expect you to stab him at all.
+1834.88 1837.12 SAM: I did. Mate, that would kill you.
+1837.16 1840.80 SAM:  That would hurt. You'd be off to him. That would f*** you up.
+1840.80 1842.64 SAM:  This is a f***ing adult pig.
+1842.68 1845.04 BARNEY:  This is like a hog, isn't it? These things wreck people.
+1845.08 1846.96 VIC: Geez, look at that tusk.
+1847.00 1849.92 VIC: That would have got through to bone, wouldn't it? Oh, yeah.
+
+1849.96 1854.76 SAM:  Six weeks ago, I was doing very slow to draw a knife and ram it into a large mammal's throat.
+1854.80 1857.20 SAM:  Now I didn't even think. I didn't even hesitate.
+
+1857.24 1860.24 VIC:  Oh, easy peasy. 
+VIC: OK. 
+SAM: Yep.
+1861.68 1863.96 SAM: Oh, it's doing so much meat on that head.
+
+1864.00 1870.64 HOST: In 21st century Britain, I think we're so used to getting all of our meat pre-packaged off a supermarket shelf.
+1870.68 1874.60 HOST: And in many ways, we've kind of lost touch with actually where it comes from.
+1874.64 1879.44 VIC: Meat on his legs, ribs, back legs, a lot.
+
+1879.48 1883.04 HOST: Many people understand we find the whole idea of killing an animal.
+1883.08 1885.88 HOST: They find it either cruel or definitely upsetting.
+1885.92 1892.56 HOST: And, yes, it's never pleasant to take a life, but in a survival situation, when it comes down to it, it's a simple choice.
+1892.60 1895.32 HOST: Them or you?
+
+1895.36 1898.04 VIC:  Nose to tail, we're going to eat every piece of you, Mr Pig.
+1898.96 1900.68 VIC: I can see home from here, boys.
+1900.72 1902.60 ROSS: I don't believe it.
+1902.64 1904.76 ROSS: I don't believe it. It cannot be its author.
+1906.32 1907.68 VIC: Boys!
+1907.72 1909.72 VIC: Hey, you're doing this thing, hey?
+1909.76 1911.56 PIERS: Oh!
+1911.60 1912.88 PIERS: Yes!
+1912.92 1914.32 PIERS: Well done, boys.
+1914.36 1915.84 VIC:  OK, three, two, one. Go!
+1917.40 1919.12 KYLE: Oh, Mr Pig.
+1919.16 1921.24 VIC: That was hard work.
+1921.28 1925.24 VIC: Yeah? And you're in this bloody big, goody-nay!
+1925.28 1927.36 PHIL: Oh, that is great. Absolutely brilliant.
+1927.36 1928.92 PHIL: Yeah, get in there.
+
+1930.72 1939.36 HOST: A pig of this size, weighing up to 200 pounds, contains tens of thousands of calories and could feed the ten men for the next few days.
+
+1940.60 1942.60 FARMAR:  I think there's a lung there.
+1942.64 1945.04 PIERS: Yeah, you don't want to eat lung.
+1945.08 1947.40 PIERS: Oh, we're going to have pork belly.
+1947.44 1949.20 DAN: God, that is like barbecue food.
+1949.24 1951.04 SPEAKER_00  Yeah.
+1951.08 1954.16 SPEAKER_00  Has anybody got any preference about who's served first today?
+1954.20 1955.76 SPEAKER_00  I would say Phil.
+
+1957.60 1965.24 HOST: After the group forgot to feed Phil yesterday, by way of an apology, they give him first dibs on the spoils.
+
+NOTE: GROUP GIVES PHIL FIRST DIBS AS HE DID NOT GET ANY FOOD THE DAY BEFORE. (PHIL -> GROUP +1)
+
+1965.28 1967.12 PHIL: I'm having a meat orgasm.
+1967.16 1970.88 PHIL: HE LAUGHS Which one's the kidney?
+1970.92 1974.72 PHIL: Anyone that knows me will know one of my favourite meals is liver and bacon.
+1974.76 1976.16 PHIL: Guess what that is?
+1980.96 1982.80 PHIL: Liver.
+1982.84 1984.12 PHIL: Oh.
+1984.16 1985.84 PHIL: And then to add to that...
+1987.68 1988.84 PHIL: ..kidney.
+1992.32 1993.68 PHIL: Oh.
+
+1993.72 1998.60 DAN: That beats any crocodile, any fish, anything I've had in this island.
+1998.64 1999.76 DAN:: Mm-hm.
+
+2001.16 2006.08 HOST: The pig is the men's first taste of meat in weeks and nothing is going to waste.
+
+NOTE: THEY ALL LAUGH AND ENJOYED THE PIG
+
+2007.12 2008.60 SAM: I think that's testically.
+2010.36 2012.84 DAN I'm going to eat everything of this pig.
+2012.88 2016.08 DANI'm even going to eat its little willy.
+2016.16 2017.68 VIC: I'd eat some pig beans.
+2017.72 2020.52 VIC: HE LAUGHS There's a very unique flavour in there.
+2020.56 2022.44 DAN: Does that taste like dick? Yeah.
+2022.48 2023.68 SAM It is dick.
+2024.72 2028.36 DAN It worries me quite a lot that you know what dick tastes like.
+2028.40 2030.36 ALL: LAUGHS
+2033.40 2036.64 DAN: Dick! Yeah? I think we're raising the sign, mate.
+
+2038.48 2045.96 HOST: After surviving on the island for almost six weeks, the men have decided to make a tribute to their achievement.
+
+NOTE: THEY CREATE A NAME FOR THE ISLAND THE CROCK AND TROTTER EVERYONE CHEERS (GROUP +1)
+
+2045.96 2052.64 DAN: Gentlemen, by the power invested in me, I name this camp...
+2052.68 2053.92 DAN: ..The Crock-and-Trotter.
+2053.96 2055.56 ALL: The Crock-and-Trotter!
+
+2063.44 2069.16 DAN: I'm really looking forward to this ending and looking back and just saying, wow, I did that.
+2071.40 2072.72 DAN: I accomplished.
+2073.72 2075.40 DAN:: I succeeded.
+2076.44 2077.92 DAN: We conquered the island.
+
+NOTE: THEY PLAY GAMES TOGETHER EVERYONE HAS FUN (GROUP +2)
+
+2079.44 2081.08 PHIL: We're named and ready to rock.
+2084.32 2085.80 PHIL: Shall we play Toss The Caver?
+2085.84 2087.12 ALL: Yeah!
+2087.16 2088.84 ROSS: Right boys, first game, let's go.
+2088.88 2091.92 ROSS:  Three, two, one, toss the caver.
+2092.96 2094.16 VIC: Oh, Charlie.
+2094.20 2095.52 ALL: One!
+2095.56 2097.12 ALL: No!
+2097.16 2098.40 ALL No!
+2098.44 2099.92 ALL Toss it!
+2099.96 2101.28 ALL: Toss it!
+2101.28 2102.76 ALL Yay!
+2102.80 2104.20 ALL One, shot!
+2104.24 2106.24 ALL Yeah!
+
+2106.28 2113.96 ROSS: It's the first time that the whole group, as we let our hair down, are not worried about water or wood or survival or will we eat or will we not.
+2114.00 2117.56 ROSS:  It's kind of like us get together as lads and have fun.
+2117.60 2120.64 ROSS:  I wish we'd done more of it.
+2120.68 2123.84 ROSS: That's one of the highlights of our entire time here.
+
+2123.88 2125.24 ALL  Oh!
+2125.28 2126.64 ALL  Go, go, go, go!
+2126.68 2128.16 ALL  No!
+2128.20 2129.36 ALL  Oh, no!
+2129.36 2131.32 ALL  Oh, yes!
+2131.36 2132.92 ALL  No!
+
+2132.96 2140.00 HOST: What I have experienced many times in the wild is an incredible sense of achievement that is very hard to get in everyday life.
+
+2140.04 2141.20 ALL  Come on, Jack!
+2141.24 2142.24 ALL  Oh!
+
+2142.28 2149.12 HOST: And I think when you battle for seven or eight hours in a torrential rainstorm, with just a couple of sticks to make a fire.
+2149.16 2153.16 HOST: You've got to look for opportunities, however small, to have fun.
+2154.48 2158.56 HOST: It's almost like nourishment, but for the soul.
+
+2158.56 2159.56 ALL  Take the string!
+2159.60 2161.08 ALL  Take the string!
+2161.12 2162.12 ALL  Yeah!
+2162.16 2163.68 ALL  HE LAUGHS
+2163.72 2165.24 ALL  Call it a draw?
+2165.28 2168.24 ALL :  A draw! A draw!
+
+NOTE: SAM AND ROSS CHILLING TOGETHER HUGGING
+
+2168.28 2169.48 SAM:  I feel amazing.
+2171.44 2172.44 SAM:   I feel relaxed.
+2172.48 2173.44 SAM:   I feel empowered.
+2173.48 2174.48 SAM:   I feel like...
+2176.24 2177.92 SAM:  We're masters of this island.
+2181.56 2183.96 SAM:  I'll treasure this moment really, really well.
+2184.96 2186.96 SAM:  This is what the island's all about.
+2187.00 2188.96 SAM:  This and a handful of other moments.
+2189.00 2190.28 SAM:  This feeling.
+2190.32 2192.12 SAM I hope I never forget it.
+
+2194.96 2196.40 VIC:Well, here we are.
+2196.44 2200.92 VIC: We are at the end of this magnificent, magnificent journey.
+2201.96 2205.96 VIC: Overwhelming sadness that I've missed my wife and kids so much.
+2206.00 2207.68 VIC: Not so much sadness, just...
+2207.72 2210.52 VIC: God, how long can this truly go on for?
+2211.56 2212.56 VIC: Er...
+2213.16 2214.16 VIC: Er...
+2216.08 2219.92 VIC: Yeah, I'd like to see him soon, if possible.
+2219.96 2222.76 VIC: sooner the better for me. Sooner the better.
+
+2230.36 2232.16 DAN: What do you think of that, Beatty?
+2232.20 2233.76 PIERS: Shit. There he goes.
+2233.80 2235.12 PIERS: Look, look, look.
+2235.16 2238.04 DAN Oh, there's some heat off this bad boy.
+2238.08 2239.76 ALL Look at that!
+2239.80 2242.16 ALL: Look at that go!
+2242.80 2245.16 ALL Oceans of leavens is...
+2245.20 2248.48 ALL: This is our last night on the island.
+2248.52 2250.48 ALL: CHEERING
+2250.52 2254.56 ALL: Nice! Very good.
+
+2254.60 2256.72 BARNEY: Best night so far?
+2256.76 2258.20 BARNEY: I think so.
+2258.24 2259.68 BARNEY: Has to be, doesn't it?
+2259.72 2261.72 BARNEY: Awesome. Love it.
+2261.76 2264.20 BARNEY: Homes within splitting distance.
+2264.24 2265.68 BARNEY: Really enjoying it.
+2265.72 2267.96 BARNEY: Everyone's spirit's really high.
+2268.00 2269.68 BARNEY Wow.
+
+2270.68 2274.88 HOST: The men have now survived on the island for 40 days.
+
+NOTE: ROSS GIVES AN EXCELLENT SPEECH ON THEIR ACHIEVEMENTS AND STRUGGLES ON THE ISLAND TO THE GROUP
+
+2274.92 2277.84 ROSS: Would you guys like to hear a little Raby Burns poem that I wrote this morning?
+2277.88 2279.88 ROSS: I would love to hear Raby Burns poem.
+2279.92 2286.28 ROSS: Dear Islands, our islands, this new family does hail.
+2289.28 2294.08 ROSS: As you've chucked ever ass, but nobody has failed.
+2294.12 2300.52 ROSS: On the contrary, dear islands, as our stay grew longer, we may have reduced in numbers.
+2301.88 2303.88 ROSS: But we've grown ever stronger.
+2305.60 2310.60 ROSS: For six long weeks, we've battled hunger, tides, exhaustion, the weather.
+2312.08 2313.96 ROSS: But with British Bulldog spirit...
+2315.84 2318.36 ROSS: ..we triumphed with heart, soul and endeavour.
+2321.92 2326.32 ROSS: You've been cruel, uncomfortable and brutal to us all.
+2328.16 2332.00 ROSS: With freezing rain, dangerous seas and rocks that made us fall.
+2332.04 2337.08 ROSS: You have dangerous beasts that can kill, maim and maul.
+2337.12 2338.76 ROSS: How about that?
+2340.04 2343.48 ROSS: But we baited, trapped, killed, cooked and ate them all.
+2346.72 2351.68 ROSS: But dear islands, our islands, we will never forget.
+2351.72 2356.56 ROSS: The incredible journey we've shared since our new family met.
+2357.28 2361.64 ROSS: So the question is, our islands, can British Bulldog survive?
+2363.60 2369.96 ROSS: The answer is no, dear islands, we didn't just survive, but thrive.
+2370.00 2371.44 ALL: Excellent.
+2379.96 2382.96 ALL: Oh, my God, look at her go! Wow!
+
+2386.56 2409.44 HOST: So I'm on my way to pick up the men after six weeks, you know, and to be honest, I'm pretty nervous just about what I'm going to find.
+
+2409.48 2414.24 HOST: Are they going to be emaciated wrecks or are they going to look pretty healthy?
+2414.24 2418.68 HOST: Are they going to be broken men or will they have figured out how to survive and thrive?
+
+NOTE: DAN, SAM, VIC, FARMAR, BARNEY, SHARES THAT IT HAS BEEN A PLEASURE TO SPEND THE TIME TOGETHER
+
+2421.12 2422.84 DAN: It is quite strange, though, isn't it?
+2422.88 2424.40 VIC What bit? 
+DAN: It's finished.
+2424.44 2428.92 VIC: We are, yeah. Within an hour, we'll step off and never, ever step back on.
+2428.96 2430.72 PHIL: Brett has been an honour serving you, gentlemen.
+2430.76 2433.08 VIC: Yes, serious. Good effort, James.
+2433.12 2436.16 FARMAR I feel quite proud of our little gang.
+
+2436.20 2440.04 FARMAR The island has taught me an incredible sense of unity.
+2440.08 2443.88 FARMAR And we've shared, we've shared everything that we've had here on this island.
+2443.88 2447.88 FARMAR It doesn't matter if it was the smallest fish, we've shared it between everyone.
+
+2449.12 2450.28 SAM:  I feel...
+2453.04 2456.44 SAM:  ..thrilled to have made it this far with you all.
+2457.84 2461.80 SAM:  It sounds fucked up, but I feel like I'm going to actually miss you, God.
+
+
+2462.96 2466.72 BARNEY I think I'm leading the island with a renewed sense of confidence.
+2467.92 2469.00 BARNEY  And some friends.
+2470.44 2472.12 BARNEY: Some more friends, should I say.
+
+2474.60 2476.20 ALL Here we go, boys. Come and win.
+2476.24 2477.24 ALL  Here he is.
+2478.76 2479.76 ALL  Yes!
+2481.48 2482.52 ALL : This is our man.
+2482.56 2483.64 ALL : This is it, lads.
+2484.52 2486.32 ALL : Bear grills. Bear grills, lads.
+2486.36 2487.36 ALL : Only Bear bloody grills.
+2487.40 2488.76 ALL  Only bloody bloody.
+2488.80 2490.80 ALL  Only bloody daddies!
+2490.84 2493.48 ALL  CHEERING AND APPLAUSE
+2493.52 2501.08 HOST: Come on! Look at you, guys. I thought I smelled bad.
+2501.28 2503.56 HOST: I mean, that is the smell of honest, hard work.
+2503.60 2505.20 HOST: We're glad to see you.
+2505.24 2506.36 HOST: Thanks for coming back.
+
+2506.40 2508.28 PHIL: I'm glad I made it to the end.
+2508.32 2512.68 PHIL: I am super, super, super glad I made it to the end.
+2512.72 2514.84 HOST: Well done, you guys. Wow.
+2514.88 2517.04 HOST: It's like you'd be through a war zone.
+2517.08 2519.68 HOST: But those smiles tell a story.
+2519.72 2521.92 HOST: So how are you feeling? 
+VIC: Fantastic.
+2521.96 2524.12 VIC: Fantastic to you now. Fantastic to see you.
+2524.16 2526.16 VIC: Fantastic to see you.
+
+2526.20 2528.84 VIC: As the band of brothers...
+2528.84 2530.44 VIC: It's not a band of brothers anymore.
+2530.48 2531.84 VIC: It's a family.
+2531.88 2533.96 VIC: Love them and hate them.
+2534.00 2537.88 VIC: They're here forever with you, and it was fantastic.
+
+NOTE: GROUP HUGS BEFORE THEY LEAVE (GROUP +2)
+
+2537.92 2539.48 HOST: So we're going to get you off the island.
+2539.52 2541.80 HOST: One last thing you guys want to do. Yes.
+
+2541.84 2543.28 ALL Whoa! Nice.
+2543.32 2544.80 ALL Good to see you.
+2544.84 2546.68 VIC: Kyle, you started this fire.
+2546.72 2548.48 KYLE: You tell us when to end it, pal.
+2548.52 2553.12 KYLE: I'm proud to say that I've made it here with you guys, Ocean's elevenses .
+2553.16 2554.52 KYLE: Let's quench the fire.
+2554.56 2556.36 VIC: Quench the fire, guys!
+2556.36 2558.36 ALL Whoo!
+2560.40 2562.40 ALL  Yeah!
+2567.44 2569.44 ALL  Yes!
+2569.48 2571.48 ALL  Get in there!
+2571.52 2574.28 ALL  Get in there! Yes!
+
+2574.32 2579.16 HOST: I think what's interesting is you realise they've actually become a really tight unit.
+2579.20 2586.08 HOST: That's why there's emotion at the end when they're hugging each other, because they've been through the fire together and they've come out a bit stronger.
+
+2586.16 2587.56 SAM: Well done, boys.
+2587.60 2589.32 VIC: Oh, no.
+2589.36 2591.28 VIC: Let's grab a tackle and get out of here, yeah?
+2591.32 2593.68 VIC: Get the fuck out of here. Go on, fuck out of here.
+2593.72 2595.72 ALL Come on, man!
+2595.76 2607.08 ALL  CHEERING 
+.
+2607.12 2610.64 DAN If I got that chance again.. Give me about a year or half a year, I'll do it again.
+2610.68 2614.68 DAN  But if you ask me to do it tomorrow, I'll probably tell you to piss off.
+
+2616.08 2629.60 PHILJust cos you're over 40, just cos you're over 50, just cos you're almost 60 doesn't mean you spent.
+2631.28 2634.00 PHIL: A can-do attitude goes a long way in this life.
+
+NOTE: GROUP IS HAPPY TO SEE WILL AGAIN AFTER THEY LEFT THE ISLAND
+
+2646.08 2652.96 ALL: So, Will? Is Will?
+2653.00 2655.00 ALL: Yes, Willy-o. CHEERING
+2658.72 2660.72 ALL What's up, Imbius?
+2660.76 2664.80 ALL CHEERING Oh, my brother!
+2664.84 2666.84 ALL HE LAUGHS
+2666.88 2668.88 ALL Oh, yes, yes, yes.
+2668.92 2672.92 ALL My fire again, the fire... Oh, for about a second.
+2672.96 2674.96 WILL: Oh, you all stink!
+2675.88 2679.44 WILL: Oh, no, I couldn't let you guys get to the end without me.
+
+<END OF INTERACTION>
+
+

@@ -1,0 +1,157 @@
+MAE: 0.6470091309358084, neighbourhoodSize = 13, Include Negative = false
+MAE: 0.6470091309358084, neighbourhoodSize = 13, Include Negative = true
+MAE: 0.6471302366186839, neighbourhoodSize = 12, Include Negative = false
+MAE: 0.6471302366186839, neighbourhoodSize = 12, Include Negative = true
+MAE: 0.6473339229788425, neighbourhoodSize = 11, Include Negative = false
+MAE: 0.6473339229788425, neighbourhoodSize = 11, Include Negative = true
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = false
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = true
+MAE: 0.6482642237366627, neighbourhoodSize = 14, Include Negative = false
+MAE: 0.6482642237366627, neighbourhoodSize = 14, Include Negative = true
+MAE: 0.6489794922369146, neighbourhoodSize = 15, Include Negative = false
+MAE: 0.6489794922369146, neighbourhoodSize = 15, Include Negative = true
+MAE: 0.6493151071810515, neighbourhoodSize = 9, Include Negative = false
+MAE: 0.6493151071810515, neighbourhoodSize = 9, Include Negative = true
+MAE: 0.6496907678627268, neighbourhoodSize = 16, Include Negative = false
+MAE: 0.6496907678627268, neighbourhoodSize = 16, Include Negative = true
+MAE: 0.6501708667326427, neighbourhoodSize = 17, Include Negative = false
+MAE: 0.6501708667326427, neighbourhoodSize = 17, Include Negative = true
+MAE: 0.6509324225397352, neighbourhoodSize = 18, Include Negative = false
+MAE: 0.6509324225397352, neighbourhoodSize = 18, Include Negative = true
+MAE: 0.651215057629091, neighbourhoodSize = 8, Include Negative = false
+MAE: 0.651215057629091, neighbourhoodSize = 8, Include Negative = true
+MAE: 0.6516035909184756, neighbourhoodSize = 20, Include Negative = false
+MAE: 0.6516035909184756, neighbourhoodSize = 20, Include Negative = true
+MAE: 0.6517310613447933, neighbourhoodSize = 19, Include Negative = false
+MAE: 0.6517310613447933, neighbourhoodSize = 19, Include Negative = true
+MAE: 0.6532438924260894, neighbourhoodSize = 7, Include Negative = false
+MAE: 0.6532438924260894, neighbourhoodSize = 7, Include Negative = true
+MAE: 0.6551292007763152, neighbourhoodSize = 6, Include Negative = false
+MAE: 0.6551292007763152, neighbourhoodSize = 6, Include Negative = true
+MAE: 0.6570447570792232, neighbourhoodSize = 30, Include Negative = false
+MAE: 0.6570447570792232, neighbourhoodSize = 30, Include Negative = true
+MAE: 0.6590249381504382, neighbourhoodSize = 5, Include Negative = false
+MAE: 0.6590249381504382, neighbourhoodSize = 5, Include Negative = true
+MAE: 0.6621745262753828, neighbourhoodSize = 40, Include Negative = false
+MAE: 0.6621745262753828, neighbourhoodSize = 40, Include Negative = true
+MAE: 0.6621814747624551, Threshhold = 0.40000000000000013,
+MAE: 0.6671171436388444, neighbourhoodSize = 50, Include Negative = false
+MAE: 0.6671171436388444, neighbourhoodSize = 50, Include Negative = true
+MAE: 0.6701765732385863, neighbourhoodSize = 60, Include Negative = false
+MAE: 0.6701765732385863, neighbourhoodSize = 60, Include Negative = true
+MAE: 0.6716673333082779, Threshhold = 0.30000000000000004,
+MAE: 0.6728436423146277, neighbourhoodSize = 70, Include Negative = false
+MAE: 0.6728436423146277, neighbourhoodSize = 70, Include Negative = true
+MAE: 0.6752930498316239, neighbourhoodSize = 80, Include Negative = false
+MAE: 0.6752930498316239, neighbourhoodSize = 80, Include Negative = true
+MAE: 0.6755988283994472, Threshhold = 0.5,
+MAE: 0.6777257220258736, neighbourhoodSize = 90, Include Negative = false
+MAE: 0.6777257220258736, neighbourhoodSize = 90, Include Negative = true
+MAE: 0.6795984302330214, neighbourhoodSize = 100, Include Negative = false
+MAE: 0.6795984302330214, neighbourhoodSize = 100, Include Negative = true
+MAE: 0.6877048542636242, Threshhold = 0.20000000000000018,
+MAE: 0.6960270012823492, Threshhold = 0.10000000000000009,
+MAE: 0.69742213264951, Threshhold = -1,
+MAE: 0.69742213264951, Threshhold = -0.9,
+MAE: 0.69742213264951, Threshhold = -0.8,
+MAE: 0.69742213264951, Threshhold = -0.6999999999999999,
+MAE: 0.69742213264951, Threshhold = -0.6,
+MAE: 0.69742213264951, Threshhold = -0.5,
+MAE: 0.69742213264951, Threshhold = -0.39999999999999994,
+MAE: 0.69742213264951, Threshhold = -0.29999999999999992,
+MAE: 0.69742213264951, Threshhold = -0.19999999999999997,
+MAE: 0.69742213264951, Threshhold = -0.09999999999999998,
+MAE: 0.69742213264951, Threshhold = 0,
+MAE: 0.6975262656064869, Threshhold = 0.6000000000000001,
+MAE: 0.7019320050044658, Threshhold = 0.7000000000000002,
+MAE: 0.7055724092698437, Threshhold = 0.8,
+MAE: 0.711232778966697, neighbourhoodSize = 2, Include Negative = false
+MAE: 0.711232778966697, neighbourhoodSize = 2, Include Negative = true
+MAE: 0.7182126620875765, neighbourhoodSize = 0, Include Negative = false
+MAE: 0.7182126620875765, neighbourhoodSize = 0, Include Negative = true
+MAE: 0.7182126620875765, Threshhold = 1,
+MAE: 0.7183317027929262, Threshhold = 0.9000000000000001,
+,,
+,,
+MAE: 0.6470091309358084, neighbourhoodSize = 13, Include Negative = false
+MAE: 0.6470091309358084, neighbourhoodSize = 13, Include Negative = true
+MAE: 0.6471302366186839, neighbourhoodSize = 12, Include Negative = false
+MAE: 0.6471302366186839, neighbourhoodSize = 12, Include Negative = true
+MAE: 0.6473339229788425, neighbourhoodSize = 11, Include Negative = false
+MAE: 0.6473339229788425, neighbourhoodSize = 11, Include Negative = true
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = false
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = true
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = false
+MAE: 0.6478884594156338, neighbourhoodSize = 10, Include Negative = true
+MAE: 0.6482642237366627, neighbourhoodSize = 14, Include Negative = false
+MAE: 0.6482642237366627, neighbourhoodSize = 14, Include Negative = true
+MAE: 0.6489794922369146, neighbourhoodSize = 15, Include Negative = false
+MAE: 0.6489794922369146, neighbourhoodSize = 15, Include Negative = true
+MAE: 0.6493151071810515, neighbourhoodSize = 9, Include Negative = false
+MAE: 0.6493151071810515, neighbourhoodSize = 9, Include Negative = true
+MAE: 0.6496907678627268, neighbourhoodSize = 16, Include Negative = false
+MAE: 0.6496907678627268, neighbourhoodSize = 16, Include Negative = true
+MAE: 0.6501708667326427, neighbourhoodSize = 17, Include Negative = false
+MAE: 0.6501708667326427, neighbourhoodSize = 17, Include Negative = true
+MAE: 0.6509324225397352, neighbourhoodSize = 18, Include Negative = false
+MAE: 0.6509324225397352, neighbourhoodSize = 18, Include Negative = true
+MAE: 0.651215057629091, neighbourhoodSize = 8, Include Negative = false
+MAE: 0.651215057629091, neighbourhoodSize = 8, Include Negative = true
+MAE: 0.6516035909184756, neighbourhoodSize = 20, Include Negative = false
+MAE: 0.6516035909184756, neighbourhoodSize = 20, Include Negative = true
+MAE: 0.6517310613447933, neighbourhoodSize = 19, Include Negative = false
+MAE: 0.6517310613447933, neighbourhoodSize = 19, Include Negative = true
+MAE: 0.6532438924260894, neighbourhoodSize = 7, Include Negative = false
+MAE: 0.6532438924260894, neighbourhoodSize = 7, Include Negative = true
+MAE: 0.6551292007763152, neighbourhoodSize = 6, Include Negative = false
+MAE: 0.6551292007763152, neighbourhoodSize = 6, Include Negative = true
+MAE: 0.6570447570792232, neighbourhoodSize = 30, Include Negative = false
+MAE: 0.6570447570792232, neighbourhoodSize = 30, Include Negative = true
+MAE: 0.6590249381504382, neighbourhoodSize = 5, Include Negative = false
+MAE: 0.6590249381504382, neighbourhoodSize = 5, Include Negative = true
+MAE: 0.6621745262753828, neighbourhoodSize = 40, Include Negative = false
+MAE: 0.6621745262753828, neighbourhoodSize = 40, Include Negative = true
+MAE: 0.6671171436388444, neighbourhoodSize = 50, Include Negative = false
+MAE: 0.6671171436388444, neighbourhoodSize = 50, Include Negative = true
+MAE: 0.6701765732385863, neighbourhoodSize = 60, Include Negative = false
+MAE: 0.6701765732385863, neighbourhoodSize = 60, Include Negative = true
+MAE: 0.6728436423146277, neighbourhoodSize = 70, Include Negative = false
+MAE: 0.6728436423146277, neighbourhoodSize = 70, Include Negative = true
+MAE: 0.6752930498316239, neighbourhoodSize = 80, Include Negative = false
+MAE: 0.6752930498316239, neighbourhoodSize = 80, Include Negative = true
+MAE: 0.6777257220258736, neighbourhoodSize = 90, Include Negative = false
+MAE: 0.6777257220258736, neighbourhoodSize = 90, Include Negative = true
+MAE: 0.6795984302330214, neighbourhoodSize = 100, Include Negative = false
+MAE: 0.6795984302330214, neighbourhoodSize = 100, Include Negative = true
+MAE: 0.711232778966697, neighbourhoodSize = 2, Include Negative = false
+MAE: 0.711232778966697, neighbourhoodSize = 2, Include Negative = true
+MAE: 0.7182126620875765, neighbourhoodSize = 0, Include Negative = false
+MAE: 0.7182126620875765, neighbourhoodSize = 0, Include Negative = true
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+MAE: 0.6621814747624551, Threshhold = 0.40000000000000013,
+MAE: 0.6716673333082779, Threshhold = 0.30000000000000004,
+MAE: 0.6755988283994472, Threshhold = 0.5,
+MAE: 0.6877048542636242, Threshhold = 0.20000000000000018,
+MAE: 0.6960270012823492, Threshhold = 0.10000000000000009,
+MAE: 0.69742213264951, Threshhold = -1,
+MAE: 0.69742213264951, Threshhold = -0.9,
+MAE: 0.69742213264951, Threshhold = -0.8,
+MAE: 0.69742213264951, Threshhold = -0.6999999999999999,
+MAE: 0.69742213264951, Threshhold = -0.6,
+MAE: 0.69742213264951, Threshhold = -0.5,
+MAE: 0.69742213264951, Threshhold = -0.39999999999999994,
+MAE: 0.69742213264951, Threshhold = -0.29999999999999992,
+MAE: 0.69742213264951, Threshhold = -0.19999999999999997,
+MAE: 0.69742213264951, Threshhold = -0.09999999999999998,
+MAE: 0.69742213264951, Threshhold = 0,
+MAE: 0.6975262656064869, Threshhold = 0.6000000000000001,
+MAE: 0.7019320050044658, Threshhold = 0.7000000000000002,
+MAE: 0.7055724092698437, Threshhold = 0.8,
+MAE: 0.7182126620875765, Threshhold = 1,
+MAE: 0.7183317027929262, Threshhold = 0.9000000000000001,

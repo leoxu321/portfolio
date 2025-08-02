@@ -1,0 +1,119 @@
+<!doctype html>
+<script type = "text/javascript" src="userbase.js"></script>
+<script type = "text/javascript" src="movie.js"></script>
+
+<title>CastView</title>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header header login"
+    "mtitle mtitle medit s"
+    "footer footer footer footer";
+  grid-template-rows: 8% 82% 8%;
+  grid-template-columns: 20% 1fr 40% 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, mtitle, login, medit{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mTitle {
+  grid-area: mtitle;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#mEdit{
+    grid-area: medit;
+}
+
+</style>
+<body style="background-color:black" onload = toggleLoginInfo(); >
+  <header id="pageHeader">
+    <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+  </header>
+  <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" onclick="toggleSignin()" id="Sign">Sign in</button>
+  </login>
+  <medit id = "mEdit">
+    <input style="font-size:20px; width: 90%; height: 3%; float: left;"; type="text" id="Movie" placeholder="Title of movie">
+    <br><br>
+    <input style="font-size:20px; width: 90%; height: 3%; float: left;"; type="text" id="newtext" placeholder="What do you want to edit for the movie...">
+    <br><br>
+    <input style="font-size:20px; width: 90%; height: 3%; float: left;"; type="text" id="Change" placeholder="What do you want to change it to...">
+    <br><br>
+    <button type="button" style="font-family: Verdana; font-size: 20px; width: 30%; height: 5%; float: left;" id= "Submit" onclick=editMovie()>Submit</button>
+    <h1 id="status"></h1>
+  </medit>
+  <div id="page-container">
+  <mtitle id="mTitle">
+    <meta charset = "UTF-8" />
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Title" placeholder="Title">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Year" placeholder="Year">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Rated" placeholder="Rated">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Released" placeholder="Released">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Runtime" placeholder="Runtime">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Genre" placeholder="Genre">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Director" placeholder="Director" required/>
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Writer" placeholder="Writer" required/>
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Actors" placeholder="Actors" required/>
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Plot" placeholder="Plot">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Language" placeholder="Language">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Country" placeholder="Country">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Awards" placeholder="Awards">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Poster" placeholder="Poster">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Ratings" placeholder="Ratings">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Metascore" placeholder="Metascore">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="imdbRating" placeholder="imdbRating">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="imdbVotes" placeholder="imdbVotes">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="imdbID" placeholder="imdbID">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Type" placeholder="Type">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="DVD" placeholder="DVD">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="BoxOffice" placeholder="BoxOffice">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Production" placeholder="Production">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Website" placeholder="Website">
+    <br>
+    <input style="font-size:20px; width: 90%; height: 2%; float: left;"; type="text" id="Response" placeholder="Response">
+    <br><br><br>
+    <button type="button" style="font-family: Verdana; font-size: 20px; width: 30%; height: 5%; float: left;" id= "Submit" onclick=newMovie()>Submit</button>
+    <h1 id="status2"></h1>
+  </mtitle>
+  </div>
+  <footer id="pageFooter">
+    <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+    <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films |</a>
+    <a style ="text-align:center; color:white;" href=""onclick="authAccount()">Account Settings </a>
+  </footer>
+</body>

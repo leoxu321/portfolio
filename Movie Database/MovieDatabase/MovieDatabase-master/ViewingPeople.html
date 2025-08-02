@@ -1,0 +1,99 @@
+<!doctype html>
+<title>Viewing People</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header login"
+    "mName s s"
+    "mImage history following"
+    "follow collab f"
+    "footer footer footer";
+  grid-template-rows: 8% 10% 45% 24% 8%;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, mImage, login,summary, mName,follow,collab, history,following{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#pfpImage {
+  grid-area: mImage;
+  }
+#Follow {
+  grid-area: follow;
+  padding-top:15%
+  }
+#mName {
+  grid-area: mName;
+  }
+#History {
+  grid-area: history;
+  text-align:center;
+  padding-top:5%
+  }
+#Following{
+  grid-area:following;
+}
+#siteLogin {
+  grid-area: login;
+  }
+#Collab{
+  grid-area: collab;
+}
+</style>
+<script>
+var url = document.location.href,
+    params = url.split('?')[1].split('&'),
+    data = {}, tmp;
+for (var i = 0, l = params.length; i < l; i++) {
+    tmp = params[i].split('=');
+    data[tmp[0]] = tmp[1];
+}
+let user = data.search
+let user2 = user.split("%20");
+user2 = user2.join(' ')
+window.senduserinfo()
+window.toggleFollowInfo(user2)
+</script>
+<body style="background-color:black" onload = toggleLoginInfo();>
+    <header id="pageHeader">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </header>
+
+    <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id= "Sign" onclick="toggleSignin()">Sign in</button>
+    </login>
+
+    <mImage id="pfpImage">
+      <img src = '' alt = "image" height = "100%" width = "100%" id="Image"></img>
+    </mImage>
+
+    <mName style= "font-family:Verdana; font-size:10px; text-align:left;" id="mName">Name goes here</mName>
+    <follow id="Follow">
+        <button type="button" style="font-family: Verdana; font-size: 30px; width: 80%; height: 50%; align:center; float: center" id="followbutton" onclick="addFollower(user2)">Follow</button>
+    </follow>
+    <collab id="Collab">This user has not collaborated on any films in this database</collab>
+    <history id="History">Users Text Here</history>
+    <following id="Following">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 80%; height: 50%; align:center; float: center" id="followers" onclick="showWhoFollows(user2)">See Followers</button>
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 80%; height: 50%; align:center; float: center" id="followers" onclick="seeUserReviews(user2)">See Reviews</button>
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 80%; height: 50%; align:center; float: center" id="person" onclick="showPersonFollows(user2)">See Persons</button>
+    </following>
+    <footer id="pageFooter">
+        <p>
+            <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+            <a style ="text-align:center; color:white;" href="/SearchUsers.html"> Search Users |</a>
+            <a style ="text-align:center; color:white;" href="" onclick="authAccount()">Account Settings </a>
+        </p>
+    </footer>
+</body>

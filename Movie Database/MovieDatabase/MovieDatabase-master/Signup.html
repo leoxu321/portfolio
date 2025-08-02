@@ -1,0 +1,76 @@
+<!doctype html>
+<title>Sign Up</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<style>
+body{
+  display:grid;
+  grid-template-areas:
+  "webTitle"
+  "signup"
+  "nav";
+  grid-template-rows:8% 82% 8%;
+  grid-template-columns:1fr;
+  grid-gap:1%;
+  height: 100vh;
+  margin: 0;
+}
+webTitle,signup, nav{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#titleBox{
+    grid-area:webTitle;
+}
+#navBox{
+  grid-area: nav;
+}
+#signBox{
+  grid-area:signup;
+}
+#adBox{
+  grid-area:ad;
+}
+p { border-bottom: 2px solid white;}
+</style>
+<body style="background-color:black;">
+    <webTitle id = "titleBox">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </webTitle>
+    <signup id="signBox">
+      <br>
+      <br>
+      <br>
+      <p>
+        <div class="box">
+            <div class="container-firstname">
+              <h2 style = "font-family: Verdana; font-size: 20px;">First Name:</h2>
+              <input type="firstname" id="firstname">
+            </div>
+            <div class="container-lastname">
+              <h2 style = "font-family: Verdana; font-size: 20px;">Last Name:</h2>
+              <input type="lastname" id="lastname">
+            </div>
+            <div class="container-username">
+              <h2 style = "font-family: Verdana; font-size: 20px;">Username:</h2>
+              <input type="username" id="username">
+            </div>
+            <div class="container-password">
+              <h2 style = "font-family: Verdana; font-size: 20px;">Password:</h2>
+              <input type="password" id="password">
+            </div>
+        </div>
+            <br>
+            <button type="button" style="font-family: Verdana; font-size: 20px;" onclick="createUser()">Sign Up</button>
+            <br>
+            <br>
+            <button type="button" style="font-family: Verdana; font-size: 10px;" onclick="location.href='LogInPage.html'">Log In if already have account</button>
+      </p>
+    </signup>
+    <nav id= "navBox">
+      <br>
+      <br>
+        <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+        <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films |</a>
+        <a style ="text-align:center; color:white;" href="/AccountSettings.html">Account Settings </a>
+    </nav>
+</body>

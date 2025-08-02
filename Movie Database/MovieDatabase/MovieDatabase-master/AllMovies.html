@@ -1,0 +1,122 @@
+<!doctype html>
+<script type = "text/javascript" src="userbase.js"></script>
+<script type = "text/javascript" src="movie.js"></script>
+
+<title>All Movies</title>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header login"
+    "filter s s"
+    "movie movie movie"
+    "footer footer footer";
+  grid-template-rows: 8% 20% 61% 8%;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, filter, movie, login{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mainMovie {
+  grid-area: movie;
+  }
+#mainFilter {
+  grid-area: filter;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+</style>
+<body style="background-color:black" onload = toggleLoginInfo(); >
+
+  <header id="pageHeader">
+    <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+  </header>
+  <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" onclick="toggleSignin()" id="Sign">Sign in</button>
+  </login>
+  <filter id="mainFilter">
+    <input style="font-size:20px; width: 200%; height: 35%; "; type="search" id="search" placeholder="Search...">
+
+    <style>
+      .btn-group button {
+        background-color: #4CAF50; /* Green background */
+        border: 1px solid green; /* Green border */
+        color: white; /* White text */
+        padding: 10px 24px; /* Some padding */
+        cursor: pointer; /* Pointer/hand icon */
+        float: left; /* Float the buttons side by side */
+      }
+
+      /* Clear floats (clearfix hack) */
+      .btn-group:after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+      .btn-group button:not(:last-child) {
+        border-right: none; /* Prevent double borders */
+      }
+
+      /* Add a background color on hover */
+      .btn-group button:hover {
+        background-color: #3e8e41;
+      }
+      </style>
+      <body>
+
+      <div class="btn-group">
+        <button onclick = sortGenre()>Genre</button>
+        <button onclick = sortYear()>Year</button>
+        <button onclick = sortRating()>Rating</button>
+        <button onclick = location.href='/RecMovies.html'>Recommended films</button>
+      </div>
+
+      </body>
+  </filter>
+
+  <div id="page-container">
+    <div id="content-wrap">
+      <br><br><br><br><br><br><br>
+  <movie id="mainMovie">
+    <a id = "print" ></a>
+    <img style="padding-left:1.1%" src="https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg" alt="Toy Story Poster" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BOTEyNzg5NjYtNDU4OS00MWYxLWJhMTItYWU4NTkyNDBmM2Y0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg" alt="Father of the Bride" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg" alt="Jumanji" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BMDJjNWE5MTEtMDk2Mi00ZjczLWIwYjAtNzM2ZTdhNzcwOGZjXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg" alt="Heat" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BYjQ5ZjQ0YzQtOGY3My00MWVhLTgzNWItOTYwMTE5N2ZiMDUyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg" alt="Sabrina" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BN2ZkZTMxOTAtMzg1Mi00M2U0LWE2NWItZDg4YmQyZjVkMDdhXkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_SX300.jpg" alt="Tom and Huck" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BN2NjYWE5NjMtODlmZC00MjJhLWFkZTktYTJlZTI4YjVkMGNmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg" alt="Sudden Death" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@._V1_SX300.jpg" alt="Golden Eye" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BZjJlYzgzOWUtZmJlZi00ZGM4LTliNzctNWFkNThlMDJhZDQxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg" alt="Battle Star Galactica" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg" alt="Revenge of the sith" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BMTk4MjQzNjA3NV5BMl5BanBnXkFtZTcwODkwMTEzMQ@@._V1_SX300.jpg" alt="Star Wreck" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_SX300.jpg" alt="Shrek the third" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BOGMyNWJhZmYtNGQxYi00Y2ZjLWJmNjktNTgzZWJjOTg4YjM3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg" alt="Lord of the rings" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BNGI3ZmVkMDItZTdiZi00OTg0LWE5ODEtMmNjMDBlNGMzZjExXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg" alt="Sabotage" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BYWM4MWEwNWYtZjNhYS00ZWVhLWE2ZjAtMDAyMGRkMDk2NDBlXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg" alt="Star Trek IV: The Voyage Home" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg" alt="BraveHeart" height="200" width="150"></img>
+      <img src="  https://m.media-amazon.com/images/M/MV5BMTQ3Mjg2MTE4M15BMl5BanBnXkFtZTgwMzcyNDMwMjE@._V1_SX300.jpg" alt="Hundred foot journey" height="200" width="150"></img>
+      <img src="https://m.media-amazon.com/images/M/MV5BNWMxYTZlOTUtZDExMi00YzZmLTkwYTMtZmM2MmRjZmQ3OGY4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_SX300.jpg" alt="300" height="200" width="150"></img>
+
+  </movie>
+  <br><br><br><br>
+  </div>
+  <footer id="pageFooter">
+    <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+    <a style ="text-align:center; color:white;" href="/SearchUsers"> Search Users |</a>
+    <a style ="text-align:center; color:white;" href="" onclick="authAccount()"> Account Settings </a>
+  </footer>
+</div>
+</body>

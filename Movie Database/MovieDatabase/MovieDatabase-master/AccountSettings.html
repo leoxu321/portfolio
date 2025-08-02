@@ -1,0 +1,107 @@
+<!doctype html>
+<script type = "text/javascript" src="userbase.js">
+</script>
+<title>Account </title>
+<style>
+body{
+  display: grid;
+  grid-template-areas:
+  "webTitle webTitle notifs"
+  "pic info info"
+  "settin settin contset"
+  "nav nav nav";
+
+  grid-template-rows:8% 40% 40% 8%;
+  grid-template-columns:30% 1fr 30%;
+  grid-gap:1%;
+  height: 100vh;
+  margin: 0;
+}
+
+webTitle, info, nav, pic, settin, contset,notifs{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#titleBox{
+    grid-area:webTitle;
+}
+#imgBox{
+  grid-area:pic;
+}
+#settingsBox{
+  grid-area:settin;
+}
+#infoBox{
+  grid-area:info;
+}
+#contributingBox{
+  grid-area:contset;
+}
+#navBox{
+  grid-area:nav;
+}
+#notifs{
+  grid-area:notifs;
+}
+</style>
+
+<body style="background-color:black" onload = accountInfo();>
+    <webTitle id = "titleBox">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </webTitle>
+    <pic id="imgBox">
+      <br>
+      <img src="" alt="Profile Picture Blank" height="315" width="315" id="userimg"></img>
+    </pic>
+    <notifs>
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 60; height: 60; text-align:left;" onclick= "goToNotifs()">Notifications</button>
+    </notifs>
+
+    <info id="infoBox">
+      <h1 style="text-align:left; padding-left:2%;"id="name">Name: You are not signed in </h1>
+      <h1 style="text-align:left; padding-left:2%;"id="username">Username: N/A </h1>
+      <h1 style="text-align:left; padding-left:2%;"id="password">Password: N/A</h1>
+      <h1 style="text-align:left; padding-left:2%;"id = "accountmade">Account made: N/A</h1>
+
+      <p style="text-align:left; padding-left:2%;">
+        <button type="button" id="contributing1" style="font-family: Verdana; visibility:hidden; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="toggleContributing()">Show Contributing Options</button>
+      </p>
+    </info>
+    <settin id="settingsBox">
+       <h1 style="text-align:left; padding-left:2%;">Settings</h1>
+           <div style ="padding-right:60%; padding-down:10%;" class="box">
+              <div style ="text-align: left;padding-left:5%;" class="container-search">
+                      <input style="font-size:30px;" type="input" id="textbox" placeholder="Enter text or url">
+                      <br>
+                      <br>
+                      <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="updateFirstname()">Change surname</button> <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="updateLastname()">Change LastName</button>
+                      <br>
+                      <br>
+                      <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="changePfp()">Change Picture</button> <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="showWhoFollow()">View Following</button>
+                      <br>
+                      <br>
+                      <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick= "location.href='SearchUsers'">Find Users</button>   <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick="deleteAccount()">Delete Account</button>
+                      <button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick= "showPersonUser()">Show People</button><button type="button" style="font-family: Verdana; font-size: 20px; width: 60; height: 30; text-align:left;" onclick= "toggleContrib()">Toggle Contributing</button>
+                      <br>
+                      <br>
+              </div>
+          </div>
+    </settin>
+    <script>
+    window.toggleContributing("load");
+    </script>
+    <contset id="contributingBox"style= "padding-top:10%;" >
+      <p id="response"></p>
+      <input type="text" id="persontextbox" style="font-size:25px; display:none; float:right;" placeholder="Enter Persons Name">
+      <button type="button"  id="contributing" style="font-family: Verdana; visibility:hidden; font-size: 20px; width: 60; height: 30; float:right; text-align:left;" onclick= "addPerson()">Add Person to database</button>
+      <button type="button"  id="contributing2" style="font-family: Verdana; visibility:hidden; font-size: 20px; width: 60; height: 30; float:right; text-align:left;" onclick= "location.href='MovieCreate'">Go to Movie Creation/Editing</button>
+      <input type="text" id="contribuser" style="font-size:25px; display:none; float:right;" placeholder="Enter Users Name">
+      <button type="button"  id="contributing3" style="font-family: Verdana; visibility:hidden; font-size: 20px; width: 60; height: 30; float:right; text-align:left;" onclick= "toggleUserContributer()">Toggle Users Contributing Account Status</button>
+    </contset>
+
+  <nav id="navBox">
+      <br>
+      <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+      <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films </a>
+    </nav>
+</body>

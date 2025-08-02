@@ -1,0 +1,80 @@
+<!doctype html>
+<title>Movie Information</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<script type = "text/javascript" src="movie.js"></script>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header login"
+    "mtitle totalrating s"
+    "poster mreviews mreviews"
+    "footer footer footer";
+  grid-template-rows: 8% 15% 66% 8%;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, login, mtitle, mreviews,totalrating,poster{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mReviews {
+  grid-area: mreviews;
+  }
+#mTitle {
+  grid-area: mtitle;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#totalrating {
+    grid-area: totalrating;
+  }
+#poster{
+  grid-area:poster;
+}
+</style>
+
+<body style="background-color:black" onload = toggleLoginInfo();>
+    <header id="pageHeader">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </header>
+    <form method="POST">
+     <login id="siteLogin">
+       <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id= "Sign" onclick=toggleSignin()>Login</button>
+     </login>
+   </form>
+    <mtitle id="mTitle" style="font-family: Verdana; font-size: 300%"></mtitle>
+    <poster id="poster">
+      <img src="" alt="Film" height="200" width="150"id = "moviepost"></img>
+    </poster>
+
+    <div id="page-container">
+      <div id="content-wrap">
+        <br><br><br><br>
+        <totalrating id="totalrating" style="font-size:200%; padding-top:5%;">Total Rating:</totalrating>
+        <br><br><br><br>
+        <mreviews id="mReviews">
+        <script>
+            window.Reviews();
+            window.grabPoster();
+        </script>
+    </mreviews>
+    </div>
+    <footer id="pageFooter">
+      <br>
+      <br>
+      <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+        <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films |</a>
+        <a style ="text-align:center; color:white;" href="/AccountSettings.html">Account Settings </a>
+    </footer>
+    </div>
+</body>

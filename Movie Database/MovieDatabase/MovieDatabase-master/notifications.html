@@ -1,0 +1,140 @@
+<!doctype html>
+<title>Movie Information</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header header header login"
+    "gap gap gap gap gap"
+    "a mid1 mid1 mid1 b"
+    "a mid2 mid2 mid2 b"
+    "a mid3 mid3 mid3 b"
+    "a bot1 bot1 bot1 b"
+    "a bot2 bot2 bot2 b"
+    "footer footer footer footer footer";
+  grid-template-rows: 8% 5% 14% 14% 14% 14% 14% 8%;
+
+  grid-gap: 1%;
+  height: 99vh;
+  margin: 0;
+  }
+header, footer, login, usersearch, mid1, mid2 , mid3, bot1, bot2, a, b{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#gap {
+  grid-area:gap;
+  width:46.25%;
+  padding-left: right%;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#mid1{
+  grid-area: mid1;
+  border-style: solid;
+  border-width: thin;
+  border-color:white;
+}
+#mid2{
+  grid-area: mid2;
+  border-style: solid;
+  border-width: thin;
+
+}
+#mid3{
+  grid-area: mid3;
+  border-style: solid;
+  border-width: thin;
+}
+#bot1{
+  grid-area: bot1;
+  border-style: solid;
+  border-width: thin;
+}
+#bot2{
+  grid-area: bot2;
+  border-style: solid;
+  border-width: thin;
+}
+#a{
+  grid-area:a;
+
+}
+#b{
+  grid-area:b;
+
+}
+
+</style>
+<body style="background-color:black" onload = toggleLoginInfo();>
+    <header id="pageHeader">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:left;">BlockedBuster™</h1>
+    </header>
+    <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id="Sign" onclick=toggleSignin()>Sign in</button>
+    </login>
+    <gap id="Search">
+        <body>
+        <p>
+        </p>
+        <script>
+            window.showUserNotifs('1');
+      </script>
+      </body>
+    </gap>
+
+    <mid1 id="mid1" style="text-align:left;">
+      <p1 id=title0 style="font-size:150%;"></p1>
+      <p style = "color:white; font-family: Verdana; font-size: 25px;" id = "user0" >No more Notifications</p>
+    </mid1>
+    <mid2 id="mid2" style="text-align:left;">
+      <p1 id=title1 style="font-size:150%;"></p1>
+      <p style = "color:white; font-family: Verdana; font-size: 25px;" id = "user1" >No more Notifications</p>
+    </mid2>
+    <mid3 id="mid3" style="text-align:left;">
+      <p1 id=title2></p1>
+      <p style = "color:white; font-family: Verdana; font-size: 25px;" id = "user2" >No more Notifications</p>
+    </mid3>
+    <bot1 id = "bot1" style="text-align:left;">
+        <p1 id=title3></p1>
+        <p style = "color:white; font-family: Verdana; font-size: 25px;" id = "user3" >No more Notifications</p>
+    </bot1>
+    <bot2 id = "bot2" style="text-align:left;">
+        <p1 id=title4></p1>
+        <p style = "color:white; font-family: Verdana; font-size: 25px;" id = "user4" >No more Notifications</p>
+    </bot2>
+
+    <a id="a">
+      <p style = "color:white; text-align:center; font-family: Verdana; font-size: 80%"> Notifications: </p>
+      <br>
+      <br>
+      <br>
+      <button id="prevButton" style= "font-family: Verdana; font-size: 30px; width: 50%; height: 25%;" onclick = showUserNotifs('3');>Prev</button>
+    </a>
+    <b id="b">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <button id="nextButton" style= "font-family: Verdana; font-size: 30px; width: 50%; height: 25%;" onclick = showUserNotifs('2');>Next</button>
+    </b>
+    <footer id="pageFooter">
+        <p>
+            <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+            <a style ="text-align:center; color:white;" href="/AllMovies.html"> All Films |</a>
+            <a style ="text-align:center; color:white;" href="" onclick="authAccount()">Account Settings </a>
+        </p>
+    </footer>
+</body>

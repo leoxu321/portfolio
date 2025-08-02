@@ -1,0 +1,157 @@
+//ALL SORTING
+0.662626732, neighbourhoodSize =  24 , Include Negative =  false 
+0.662632608, neighbourhoodSize =  25 , Include Negative =  false 
+0.662665307, neighbourhoodSize =  29 , Include Negative =  false 
+0.662680146, neighbourhoodSize =  26 , Include Negative =  false 
+0.662680962, neighbourhoodSize =  30 , Include Negative =  false 
+0.662680962, neighbourhoodSize =  30 , Include Negative =  false 
+0.662681807, neighbourhoodSize =  28 , Include Negative =  false 
+0.662686117, neighbourhoodSize =  31 , Include Negative =  false 
+0.662687119, neighbourhoodSize =  27 , Include Negative =  false 
+0.662693975, neighbourhoodSize =  23 , Include Negative =  false 
+0.662731401, neighbourhoodSize =  32 , Include Negative =  false 
+0.66275472, neighbourhoodSize =  21 , Include Negative =  false 
+0.662763642, neighbourhoodSize =  22 , Include Negative =  false 
+0.662763985, neighbourhoodSize =  33 , Include Negative =  false 
+0.662782025, neighbourhoodSize =  34 , Include Negative =  false 
+0.662784182, neighbourhoodSize =  35 , Include Negative =  false 
+0.662867187, neighbourhoodSize =  40 , Include Negative =  false 
+0.662894679, neighbourhoodSize =  20 , Include Negative =  false 
+0.662936161, neighbourhoodSize =  50 , Include Negative =  false 
+0.662962933, neighbourhoodSize =  60 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  70 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  80 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  90 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  100 , Include Negative =  false 
+0.662965775, Threshhold = 0
+0.663537356, Threshhold = 0.1
+0.665203853, Threshhold = -0.1
+0.665939164, neighbourhoodSize =  10 , Include Negative =  false 
+0.670870535, Threshhold = 0.2
+0.675895627, Threshhold = -0.2
+0.686165462, Threshhold = -0.3
+0.687167164, Threshhold = 0.3
+0.69772271, Threshhold = -0.4
+0.699795959, neighbourhoodSize =  10 , Include Negative =  true 
+0.708170505, Threshhold = 0.4
+0.708737133, Threshhold = -0.5
+0.712941212, Threshhold = -0.6
+0.715974809, Threshhold = -0.7
+0.716738627, neighbourhoodSize =  21 , Include Negative =  true 
+0.717940853, neighbourhoodSize =  22 , Include Negative =  true 
+0.718025523, neighbourhoodSize =  20 , Include Negative =  true 
+0.718212662, neighbourhoodSize =  0 , Include Negative =  false 
+0.718212662, neighbourhoodSize =  0 , Include Negative =  true 
+0.718815577, Threshhold = 1
+0.719083428, neighbourhoodSize =  23 , Include Negative =  true 
+0.719782, neighbourhoodSize =  24 , Include Negative =  true 
+0.72209848, neighbourhoodSize =  25 , Include Negative =  true 
+0.722641812, Threshhold = -0.8
+0.723168823, neighbourhoodSize =  26 , Include Negative =  true 
+0.723676051, neighbourhoodSize =  27 , Include Negative =  true 
+0.724350057, neighbourhoodSize =  28 , Include Negative =  true 
+0.725565162, Threshhold = -0.9
+0.725854284, Threshhold = -1
+0.725987083, neighbourhoodSize =  31 , Include Negative =  true 
+0.726044003, neighbourhoodSize =  30 , Include Negative =  true 
+0.726044003, neighbourhoodSize =  30 , Include Negative =  true 
+0.726379773, neighbourhoodSize =  29 , Include Negative =  true 
+0.726608832, neighbourhoodSize =  32 , Include Negative =  true 
+0.72717194, neighbourhoodSize =  33 , Include Negative =  true 
+0.727913569, neighbourhoodSize =  34 , Include Negative =  true 
+0.728787648, neighbourhoodSize =  35 , Include Negative =  true 
+0.731394399, neighbourhoodSize =  40 , Include Negative =  true 
+0.734863918, neighbourhoodSize =  50 , Include Negative =  true 
+0.735351603, Threshhold = 0.5
+0.735389137, neighbourhoodSize =  60 , Include Negative =  true 
+0.735906639, Threshhold = 0.9
+0.736263573, neighbourhoodSize =  80 , Include Negative =  true 
+0.736263573, neighbourhoodSize =  90 , Include Negative =  true 
+0.736263573, neighbourhoodSize =  100 , Include Negative =  true 
+0.736285041, Threshhold = 0.8
+0.736417158, neighbourhoodSize =  70 , Include Negative =  true 
+0.741900382, Threshhold = 0.6
+0.743185244, Threshhold = 0.7
+0.752029996, neighbourhoodSize =  2 , Include Negative =  false 
+0.75239396, neighbourhoodSize =  2 , Include Negative =  true 
+
+//ONLY TOP K BASED SORTING
+0.662626732, neighbourhoodSize =  24 , Include Negative =  false 
+0.662632608, neighbourhoodSize =  25 , Include Negative =  false 
+0.662665307, neighbourhoodSize =  29 , Include Negative =  false 
+0.662680146, neighbourhoodSize =  26 , Include Negative =  false 
+0.662680962, neighbourhoodSize =  30 , Include Negative =  false 
+0.662680962, neighbourhoodSize =  30 , Include Negative =  false 
+0.662681807, neighbourhoodSize =  28 , Include Negative =  false 
+0.662686117, neighbourhoodSize =  31 , Include Negative =  false 
+0.662687119, neighbourhoodSize =  27 , Include Negative =  false 
+0.662693975, neighbourhoodSize =  23 , Include Negative =  false 
+0.662731401, neighbourhoodSize =  32 , Include Negative =  false 
+0.66275472, neighbourhoodSize =  21 , Include Negative =  false 
+0.662763642, neighbourhoodSize =  22 , Include Negative =  false 
+0.662763985, neighbourhoodSize =  33 , Include Negative =  false 
+0.662782025, neighbourhoodSize =  34 , Include Negative =  false 
+0.662784182, neighbourhoodSize =  35 , Include Negative =  false 
+0.662867187, neighbourhoodSize =  40 , Include Negative =  false 
+0.662894679, neighbourhoodSize =  20 , Include Negative =  false 
+0.662936161, neighbourhoodSize =  50 , Include Negative =  false 
+0.662962933, neighbourhoodSize =  60 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  70 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  80 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  90 , Include Negative =  false 
+0.662965775, neighbourhoodSize =  100 , Include Negative =  false 
+0.665939164, neighbourhoodSize =  10 , Include Negative =  false 
+0.699795959, neighbourhoodSize =  10 , Include Negative =  true 
+0.716738627, neighbourhoodSize =  21 , Include Negative =  true 
+0.717940853, neighbourhoodSize =  22 , Include Negative =  true 
+0.718025523, neighbourhoodSize =  20 , Include Negative =  true 
+0.718212662, neighbourhoodSize =  0 , Include Negative =  false 
+0.718212662, neighbourhoodSize =  0 , Include Negative =  true 
+0.719083428, neighbourhoodSize =  23 , Include Negative =  true 
+0.719782, neighbourhoodSize =  24 , Include Negative =  true 
+0.72209848, neighbourhoodSize =  25 , Include Negative =  true 
+0.723168823, neighbourhoodSize =  26 , Include Negative =  true 
+0.723676051, neighbourhoodSize =  27 , Include Negative =  true 
+0.724350057, neighbourhoodSize =  28 , Include Negative =  true 
+0.725987083, neighbourhoodSize =  31 , Include Negative =  true 
+0.726044003, neighbourhoodSize =  30 , Include Negative =  true 
+0.726044003, neighbourhoodSize =  30 , Include Negative =  true 
+0.726379773, neighbourhoodSize =  29 , Include Negative =  true 
+0.726608832, neighbourhoodSize =  32 , Include Negative =  true 
+0.72717194, neighbourhoodSize =  33 , Include Negative =  true 
+0.727913569, neighbourhoodSize =  34 , Include Negative =  true 
+0.728787648, neighbourhoodSize =  35 , Include Negative =  true 
+0.731394399, neighbourhoodSize =  40 , Include Negative =  true 
+0.734863918, neighbourhoodSize =  50 , Include Negative =  true 
+0.735389137, neighbourhoodSize =  60 , Include Negative =  true 
+0.736263573, neighbourhoodSize =  80 , Include Negative =  true 
+0.736263573, neighbourhoodSize =  90 , Include Negative =  true 
+0.736263573, neighbourhoodSize =  100 , Include Negative =  true 
+0.736417158, neighbourhoodSize =  70 , Include Negative =  true 
+0.752029996, neighbourhoodSize =  2 , Include Negative =  false 
+0.75239396, neighbourhoodSize =  2 , Include Negative =  true 
+
+
+
+//ONLY THRESHHOLD BASED SORTING
+0.662965775, Threshhold = 0,
+0.663537356, Threshhold = 0.1,
+0.665203853, Threshhold = -0.1,
+0.670870535, Threshhold = 0.2,
+0.675895627, Threshhold = -0.2,
+0.686165462, Threshhold = -0.3,
+0.687167164, Threshhold = 0.3,
+0.69772271, Threshhold = -0.4,
+0.708170505, Threshhold = 0.4,
+0.708737133, Threshhold = -0.5,
+0.712941212, Threshhold = -0.6,
+0.715974809, Threshhold = -0.7,
+0.718815577, Threshhold = 1,
+0.722641812, Threshhold = -0.8,
+0.725565162, Threshhold = -0.9,
+0.725854284, Threshhold = -1,
+0.735351603, Threshhold = 0.5,
+0.735906639, Threshhold = 0.9,
+0.736285041, Threshhold = 0.8,
+0.741900382, Threshhold = 0.6,
+0.743185244, Threshhold = 0.7,

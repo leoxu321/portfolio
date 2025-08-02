@@ -1,0 +1,77 @@
+<!doctype html>
+<script type = "text/javascript" src="userbase.js"></script>
+<script type = "text/javascript" src="movie.js"></script>
+
+<title>CastView</title>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header header login"
+    "mname s s s"
+    "mbutt movie movie movie"
+    "mbutt msearch msearch msearch"
+    "footer footer footer footer";
+  grid-template-rows: 8% 20% 50% 10% 8%;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, mname, movie, login, mbutt,msearch{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mainMovie {
+  grid-area: movie;
+  }
+#mName {
+  grid-area: mname;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#butto{
+  grid-area: mbutt;
+}
+#mSearch{
+  grid-area: msearch;
+}
+</style>
+<body style="background-color:black" onload = toggleLoginInfo(); >
+  <header id="pageHeader">
+    <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+  </header>
+  <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" onclick="toggleSignin()" id="Sign">Sign in</button>
+  </login>
+  <mname id="mName" style = font-size:150%;>
+    <script>
+        window.cast();
+        window.toggleFollow();
+        window.frequency();
+    </script>
+  </mname>
+  <mbutt id="butto">
+    <button type="button" style="font-family: Verdana; font-size: 30px; width: 50%; height: 20%;" id="Follow" onclick=follow();>Follow</button>
+    <h3>Frequently Works With:</h3>
+    <h3 id="colleagues"></h3>
+  </mbutt>
+  <msearch id="mSearch">
+    <input style="font-size:20px; width: 50%; height: 50%; "; type="text" id="search" placeholder="Search Movie...">
+    <button id="myBtn" style="font-family: Verdana; font-size: 20px; width: 40%; height: 50%;" onclick = Movie();>Search</button>
+    <h2 id="status"></h2>
+  </msearch>
+  <movie id="mainMovie">
+  </movie>
+  <footer id="pageFooter">
+    <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+    <a style ="text-align:center; color:white;" href="" onclick="authAccount()"> Account Settings </a>
+  </footer>
+</body>

@@ -1,0 +1,133 @@
+<!doctype html>
+<title>Movie Information</title>
+<script type = "text/javascript" src="movieinfo.js"></script>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header header login"
+    "mtitle numrating medit medit"
+    "mImage summary summary side"
+    "mImage msearch mreview side"
+    "rating votes votes side"
+    "cast cast cast side"
+    "footer footer footer footer";
+  grid-template-rows: 8% 10% 33% 20% 7% 12%;
+  grid-template-columns: 20% 30% 1fr 15%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, cast, mImage, login,summary, mtitle,rating,votes,side,msearch,mreview,numrating,medit{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#movieImage {
+  grid-area: mImage;
+  }
+#Rating {
+  grid-area: rating;
+  }
+#mainCast {
+  grid-area: cast;
+  }
+#movieTitle {
+  grid-area: mtitle;
+  }
+#Summary {
+  grid-area: summary;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#Votes{
+  grid-area: votes;
+}
+#sidebar{
+  grid-area: side;
+}
+#review{
+  grid-area: mreview;
+}
+#search{
+  grid-area: msearch;
+}
+#numrating{
+  grid-area: numrating;
+}
+#medit{
+  grid-area:medit;
+}
+input[type=text] {
+        word-wrap: break-word;
+        word-break: break-all;
+        height: 80px;
+    }
+</style>
+
+<body style="background-color:black" onload = toggleLoginInfo();>
+    <header id="pageHeader">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:center;">BlockedBuster™</h1>
+    </header>
+    <form method="POST">
+     <login id="siteLogin">
+       <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id= "Sign" onclick=toggleSignin()>Login</button>
+     </login>
+   </form>
+
+    <mtitle id="movieTitle" style ="font-size:200%">
+      <script>
+      window.sendMovie()
+      window.sendRatingReq()
+      window.toggleEditMovie();
+      </script>
+    </mtitle>
+
+    <numrating id="numrating">
+      <h1 id = "numberRating"> Rate this Film!</h1>
+    </numrating>
+
+    <medit>
+      <button type="button" id="contributing" style="font-family: Verdana; visibility:hidden; font-size: 140%; width: 30%; height: 40%; text-align:left;" onclick="location.href='MovieCreate'">Edit Movie</button>
+    </medit>
+
+    <mImage id="movieImage" >
+    <br><br>
+    <img src = '' alt = "image" height = "50%" width = "75%" id="imgfilm"></img>
+    </mImage>
+    <rating id="Rating"></rating>
+    <Votes id="Votes"></Votes>
+
+    <summary id="Summary"></summary>
+    <side>
+    </side>
+    <msearch id = "search">
+      <input style="font-size:20px; width: 100%; height: 25%; "; type="search" id="search2" placeholder="Search Cast...">
+      <button id="myBtn" style="font-family: Verdana; font-size: 150%; width: 40%; height: 25%;" onclick = castMovie();>Search</button>
+      <br><br>
+      <button id="myBtn2" style="font-family: Verdana; font-size: 130%; width: 40%; height: 25%;" onclick=SimMovies();>Similar Movies</button>
+    </msearch>
+    <mreview id = "review">
+      <textarea name="text"; maxlength = "120"; warp="soft"; style="font-size:20px; width: 55%; height: 90%; float: left;" type="text" id="reviews" placeholder="Text Review (120 char)"></textarea>
+      <button type="button" style="font-family: Verdana; font-size: 150%; width: 40%; height: 40%; float: right;" id= "Submit" onclick=TextReview()>Submit</button>
+      <button type="button" style="font-family: Verdana; font-size: 150%; width: 40%; height: 40%; float: right;" id= "Reviews" onclick=AllReviews();>All Reviews</button>
+    </mreview>
+    <input style="font-size:150%;" type="text" id="ratingbox" width = "60px"; placeholder="Enter Rating" required><button type="button" style="font-family: Verdana; font-size: 20px; width: 20; height: 30; text-align:center;" onclick= "makeRating();">Rate Film</button>
+
+    <div id="content-wrap">
+      <cast id="mainCast" ></cast>
+        <cast id="mainCast" ></cast>
+    </div>
+    <footer id="pageFooter">
+      <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+        <a style ="text-align:center; color:white;" href="/AllMovies.html" > All Films |</a>
+        <a style ="text-align:center; color:white;" href=""onclick="authAccount()">Account Settings </a>
+    </footer>
+  </div>
+</body>

@@ -1,0 +1,4 @@
+/bin/
+*.class
+elevator_trace.txt
+floor_trace.txt

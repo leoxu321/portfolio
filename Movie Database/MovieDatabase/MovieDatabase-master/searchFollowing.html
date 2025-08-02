@@ -1,0 +1,164 @@
+<!doctype html>
+<title>Movie Information</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<style>
+body {
+    display: grid;
+    grid-template-areas:
+    "header header header header login"
+    "usersearch usersearch usersearch usersearch usersearch"
+    "a mid1 mid2 mid3 b"
+    "a bot1 bot2 bot3 b"
+    "footer footer footer footer footer";
+  grid-template-rows: 8% 14% 33% 34% 8%;
+  grid-template-columns: 19% 19% 19% 19% 19%;
+  grid-gap: 1%;
+  height: 99vh;
+  margin: 0;
+  }
+header, footer, login, usersearch, mid1, mid2 , mid3, bot1, bot2, bot3, a, b{
+  background: black;
+  text-align:center; color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#Search {
+  grid-area:usersearch;
+  width:46.25%;
+  padding-left: right%;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+#mid1{
+  grid-area: mid1;
+  border-style: solid;
+  border-width: thick;
+}
+#mid2{
+  grid-area: mid2;
+  border-style: solid;
+  border-width: thick
+
+}
+#mid3{
+  grid-area: mid3;
+  border-style: solid;
+  border-width: thick
+}
+#bot1{
+  grid-area: bot1;
+  border-style: solid;
+  border-width: thick
+
+}
+#bot2{
+  grid-area: bot2;
+  border-style: solid;
+  border-width: thick
+
+}
+#bot3{
+  border-style: solid;
+  border-width: thick
+  grid-area: bot3;
+}
+#a{
+  grid-area:a;
+
+}
+#b{
+  grid-area:b;
+
+}
+
+</style>
+<body style="background-color:black" onload = toggleLoginInfo();>
+    <header id="pageHeader">
+      <h1 style = "font-family:Verdana; font-size:30px; text-align:left;">BlockedBuster™</h1>
+    </header>
+    <login id="siteLogin">
+      <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id="Sign" onclick="toggleSignin()">Sign in</button>
+    </login>
+    <usersearch id="Search">
+        <body>
+        <p>
+        <input style="font-size:50px; width: 75%; "type="search" id="search" placeholder="Search Followers...">
+        <button id="myBtn" style="font-family: Verdana; font-size: 30px; width: 17%; height: 100%;" onclick = searchUsers();>Search</button>
+        </p>
+        <script>
+            var input = document.getElementById("search");
+                input.addEventListener("keyup", function(event) {
+                if (event.keyCode === 13) {
+                    event.preventDefault();
+                    document.getElementById("myBtn").click();
+                }
+            });
+            window.showWhoFollowing('1');
+      </script>
+      </body>
+    </usersearch>
+
+    <mid1 id="mid1">
+      <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img0"></img>
+      <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user0" ></p>
+    </mid1>
+    <mid2 id="mid2">
+      <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img1"></img>
+      <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user1" ></p>
+    </mid2>
+    <mid3 id="mid3">
+      <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img2"></img>
+      <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user2" ></p>
+    </mid3>
+
+    <bot1 id = "bot1">
+      <body>
+        <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img3"></img>
+        <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user3" ></p>
+      </body>
+    </bot1>
+    <bot2 id = "bot2">
+      <body>
+        <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img4"></img>
+        <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user4" ></p>
+      </body>
+    </bot2>
+    <bot3 id = "bot3">
+      <body>
+        <img style = padding-top:10%; src="" alt="Has No More Followers" height="100" width="150" id = "img5"></img>
+        <p style = "color:white; text-align:center; font-family: Verdana; font-size: 25px;" id = "user5" ></p>
+      </body>
+    </bot3>
+
+    <a id="a">
+      <p style = "color:white; text-align:center; font-family: Verdana; font-size: 30px"> Followers: </p>
+      <br>
+      <br>
+      <br>
+      <button id="prevButton" style= "font-family: Verdana; font-size: 30px; width: 50%; height: 25%;" onclick = showWhoFollowing('3');>Prev</button>
+    </a>
+    <b id="b">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <button id="nextButton" style= "font-family: Verdana; font-size: 30px; width: 50%; height: 25%;" onclick = showWhoFollowing('2');>Next</button>
+    </b>
+
+    <footer id="pageFooter">
+        <p>
+            <a style ="text-align:center; color:white;" href="/FirstWebpage.html"> Main Page |</a>
+            <a style ="text-align:center; color:white;" href="/AllMovies.html"> All Films |</a>
+            <a style ="text-align:center; color:white;" href="" onclick="authAccount()">Account Settings </a>
+        </p>
+    </footer>
+</body>

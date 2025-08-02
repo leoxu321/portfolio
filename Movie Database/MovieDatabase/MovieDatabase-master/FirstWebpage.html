@@ -1,0 +1,112 @@
+<!doctype html>
+<title>Main Webpage</title>
+<script type = "text/javascript" src="userbase.js"></script>
+<script type = "text/javascript" src="movie.js"></script>
+<style>
+body {
+  display: grid;
+  grid-template-areas:
+    "header header login"
+    "mtitle mtitle mtitle"
+    "search search search"
+    "films films films"
+    "footer footer footer";
+  grid-template-rows: 8% 15% 15% 50% 7%;
+  grid-template-columns: 20% 1fr 10%;
+  grid-gap: 1%;
+  height: 100vh;
+  margin: 0;
+  }
+header, footer, films, search, login, mtitle{
+  background: black;
+  color:white; font-family: arial
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+  padding-bot:10%;
+}
+#mainTitle {
+  grid-area: mtitle;
+  }
+#mainFilms {
+  grid-area: films;
+  }
+#mainSearch {
+  grid-area: search;
+  }
+#siteLogin {
+  grid-area: login;
+  }
+
+.box {
+    margin: 60px auto;
+    width: 90%;
+    max-width: 1000px;
+    height: 200px;
+    text-align: center;
+}
+
+.box .container-search input{
+     width: 100%;
+}
+</style>
+<body style="background-color:black" onload = toggleLoginInfo();>
+
+  <header id="pageHeader">
+    10/7/2020
+  </header>
+
+  <mtitle id="mainTitle">
+    <h1 style = "font-family:Verdana; font-size:60px; text-align:center;">BlockedBuster</h1>
+  </mtitle>
+
+  <search id="mainSearch">
+    <p>
+      <div class="box">
+          <input style="font-size:50px; width: 100%; height: 35%; "; type="search" id="search" placeholder="Search...">
+          <button id="myBtn" style="font-family: Verdana; font-size: 30px; width: 10%; height: 100%; float: right;" onclick = Movie(); action></button>
+      </div>
+      <script>
+        var input = document.getElementById("search");
+        input.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) {
+            event.preventDefault();
+            document.getElementById("myBtn").click();
+        }
+        });
+      </script>
+    </p>
+  </search>
+  <films id="mainFilms" style="align:center; padding-top:5%; padding-left:5%">
+    <script>
+      window.allMovie()
+    </script>
+    <h1 id="status" style="text-align: center;"></h1>
+  <img src="" alt="Toy Story Poster" height="200" width="150" id = "img0"></img>
+      <img src="" alt="Father of the Bride" height="200" width="150" id = "img1"></img>
+      <img src="" alt="Jumanji" height="200" width="150" id = "img2"></img>
+      <img src="" alt="Heat" height="200" width="150" id = "img3"></img>
+      <img src="" alt="Sabrina" height="200" width="150" id = "img4"></img>
+      <img src="" alt="Tom and Huck" height="200" width="150"id = "img5"></img>
+      <img src="" alt="Sudden Death" height="200" width="150"id = "img6"></img>
+      <img src="" alt="Golden Eye" height="200" width="150"id = "img7"></img>
+      <img src="" alt="Battle Star Galactica" height="200" width="150"id = "img8"></img>
+  </films>
+
+ <form method="POST">
+  <login id="siteLogin">
+    <button type="button" style="font-family: Verdana; font-size: 30px; width: 100%; height: 100%;" id= "Sign" onclick=toggleSignin()>Login</button>
+  </login>
+</form>
+
+  <footer id="pageFooter">
+    <p>
+      <a style ="padding-left:40%; text-align:center; color:white;" href="AllMovies.html"> All Films |</a>
+      <a style ="text-align:center; color:white;" href="/SearchUsers"> Search Users </a>
+      <a id="taccounts" style ="text-align:center; color:white; visibility:visible;" href="" onclick="authAccount()">| Account Settings </a>
+    </p>
+  </footer>
+</body>
